@@ -1,5 +1,7 @@
 Notebooks:
 
+Please access TrainingDataSmall.zip from [here]([url](https://drive.google.com/file/d/17YDixaHlEz4GYiLQfAQnhJeds3-UBvxp/view?usp=drive_link)).
+
 feature_generation.ipynb - In this notebook, we use a gpt-3.5 model to help generate features and use few-shot prompting with 3 examples of articles with extracted topics discussed. We pass the question 'What are key features of {professor's name} work?' for every professor to get a large set of possible features that captures every professor. We tried this with a couple different types of prompts but found the few shot prompt the most successful. Upon receiving these results, we created a dataframe 'professor_research_results.csv' with 'professor' and 'features' columns. We created 93 features from this list, coming up with a combination of broad and niche features. 
 
 To run this notebook, please upload the pyproject.toml and TrainingDataSmall.zip file and run using gpus.
