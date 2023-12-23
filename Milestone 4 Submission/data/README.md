@@ -1,6 +1,6 @@
 In the data folder, there are 5 different folders that refer to different types of data that we have used in this Milestone.  Please see the descriptions below for a summary on which each folder contains:
 
-bio_paper_data : consists bios and papers for all of our professors
+bio_paper_data : consists bios and papers for all of our professors. We could not add the training data due to file size constraints. Please access TrainingDataSmall.zip from this link (which you should have access to if you're signed in): https://drive.google.com/file/d/17YDixaHlEz4GYiLQfAQnhJeds3-UBvxp/view?usp=drive_link. 
 
 generated_features_and_professor_data : consists the generated features outputted from our feature generation model and the professor data that we used to construct it
 
