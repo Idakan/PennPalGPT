@@ -1,0 +1,50 @@
+,Unnamed: 0,pred_1,pred_2,pred_3,pred_4,chatbot_answer,golden_standard_answer,score,group_predict,group_actual,type_of_error
+0,0,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",I do not know the answer to that,1,1,None,Outputted professors instead of 'I don't know'
+1,1,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",I am only able to recommend professors that work in the CIS Department at Upenn,1,1,None,Outputted professors instead of 'I don't know'
+2,4,63,75,21,70,"Yasmin Kafai, Ryan Baker, Travis Q. McGaha, Thomas Farmer",Should list all of them,4,7,8,All professors come from another group
+3,5,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Chris Callison-Burch,2,7,8,All professors come from another group
+4,7,32,61,71,91,"Surbi Goel, Dinesh Jayaraman, Eric Eaton, Jianbo Shi",Mark Yatskar and/or Chris Callison-Burch,4,8,8,Expected professor not outputted but similar professors are
+5,9,76,54,32,22,"Justin Gottschlich, Andrew Head, Surbi Goel, Mark L. Liberman",Mark Yatskar and/or Dan Roth,3,5,8,Most professors come from another group
+6,11,76,17,66,71,"Justin Gottschlich, Mayur Naik, Rajeev Alur, Eric Eaton",Zachary Ives,3,3,3,Expected professor not outputted but similar professors are
+7,12,63,75,90,59,"Yasmin Kafai, Ryan Baker, Harry Smith, Sanjeev Khanna",Mayur Naik,2,7,2,All professors come from another group
+8,15,55,28,10,21,"Brett Hemenway, Pratyush Mishra, Tal Rabin, Travis Q. McGaha",Sebastian Angel,3,4,3,Most professors come from another group
+9,16,92,21,58,47,"Jonathan Smith, Travis Q. McGaha, Zachary Ives, Susan Davidson",Vincent Liu and/or Sebastian Angel,3,4,3,Most professors come from another group
+10,17,76,89,71,91,"Justin Gottschlich, Eric Wong, Eric Eaton, Jianbo Shi",Mark Yatskar,4,2,8,Most professors come from another group
+11,19,66,76,21,58,"Rajeev Alur, Justin Gottschlich, Travis Q. McGaha, Zachary Ives",Zachary Ives,5,3,3,Ideal
+12,20,55,10,28,21,"Brett Hemenway, Tal Rabin, Pratyush Mishra, Travis Q. McGaha",Andreas Haeberlen,2,4,3,All professors come from another group
+13,21,65,10,28,21,"Sebastian Angel, Tal Rabin, Pratyush Mishra, Travis Q. McGaha",Lin Thi Xuan Phan,4,3,3,Expected professor not outputted but similar professors are
+14,23,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Andreas Haeberlen,2,7,3,All professors come from another group
+15,24,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Yasmin Kafai,5,7,7,Ideal
+16,25,27,71,93,53,"Aaron Roth, Eric Eaton, Lyle Ungar, Hamed Hassani",Sharath Chandra Guntuku,3,1,8,Most professors come from another group
+17,27,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Lyle Ungar,2,7,8,All professors come from another group
+18,28,76,54,32,91,"Justin Gottschlich, Andrew Head, Surbi Goel, Jianbo Shi","Sharath Chandra Guntuku, sharathg@cis.upenn.edu",4,8,8,Expected professor not outputted but similar professors are
+19,29,71,32,48,33,"Eric Eaton, Surbi Goel, Osbert Bastani, Jacob Gardner",Daniel E. Koditschek,2,1,2,All professors come from another group
+20,30,76,42,41,86,"Justin Gottschlich, Nadia Figueroa, Vijay Kumar, Cynthia Sung",Daniel E. Koditschek,3,2,2,Expected professor not outputted but similar professors are
+21,31,34,88,76,5,"Rajiv Gandhi, Eric Weingarten, Justin Gottschlich, Adam David Mally",Michael Kearns,2,4,1,All professors come from another group
+22,32,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Aaron Roth,4,7,1,Most professors come from another group
+23,33,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Michael Kearns,4,7,1,Most professors come from another group
+24,35,66,33,89,32,"Rajeev Alur, Jacob Gardner, Eric Wong, Surbi Goel",Michael Kearns,2,8,1,All professors come from another group
+25,36,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Sanjeev Khanna,2,7,1,All professors come from another group
+26,39,76,71,91,42,"Justin Gottschlich, Eric Eaton, Jianbo Shi, Nadia Figueroa",Dinesh Jayaraman,4,2,2,Expected professor not outputted but similar professors are
+27,40,91,76,4,71,"Jianbo Shi, Justin Gottschlich, Lingjie Liu, Eric Eaton",Dinesh Jayaraman,4,2,2,Expected professor not outputted but similar professors are
+28,41,91,71,61,85,"Jianbo Shi, Eric Eaton, Dinesh Jayaraman, Camillo Taylor",Dinesh Jayaraman,5,2,2,Ideal
+29,42,33,76,32,88,"Jacob Gardner, Justin Gottschlich, Surbi Goel, Eric Weingarten",Hamed Hassani,2,8,1,Most professors come from another group
+30,43,42,91,21,31,"Nadia Figueroa, Jianbo Shi, Travis Q. McGaha, Michael Posa",M. Ani Hsieh,4,2,2,Most professors come from another group
+31,45,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",M. Ani Hsieh,2,7,2,All professors come from another group
+32,46,41,42,57,31,"Vijay Kumar, Nadia Figueroa, M. Ani Hsieh, Michael Posa",M. Ani Hsieh,5,2,2,Ideal
+33,47,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman","Vijay Kumar, M. Ani Hsieh",3,7,2,All professors come from another group
+34,48,21,42,90,74,"Travis Q. McGaha, Nadia Figueroa, Harry Smith, Kostas Daniilidis","M. Ani Hsieh, Mark Yim",3,2,2,Expected professor not outputted but similar professors are
+35,49,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Mark Yatskar,2,7,8,All professors come from another group
+36,50,32,76,91,61,"Surbi Goel, Justin Gottschlich, Jianbo Shi, Dinesh Jayaraman","Chris Callison Burch, Mark Yatskar",4,8,8,Expected professor not outputted but similar professors are
+37,52,84,87,88,73,"Charles Yang, Duncan Watts, Eric Weingarten, Anindya De","Mark Yatskar, Chris Callsion Burch",4,8,8,Expected professor not outputted but similar professors are
+38,54,25,45,57,75,"Victor M. Preciado, Damon Centola, M. Ani Hsieh, Ryan Baker",George J. Pappas,2,5,4,All professors come from another group
+39,58,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Aaron Roth,3,7,1,All professors come from another group
+40,59,76,32,88,71,"Justin Gottschlich, Surbi Goel, Eric Weingarten, Eric Eaton",Justin Gottschlich,5,8,8,Ideal
+41,60,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Mingmin Zhao,2,7,2,All professors come from another group
+42,61,98,63,75,59,"Stephanie Weirich, Yasmin Kafai, Ryan Baker, Sanjeev Khanna",Yasmin Kafai,5,7,7,Ideal
+43,62,10,55,88,11,"Tal Rabin, Brett Hemenway, Eric Weingarten, Vincent Liu",Tal Rabin,5,3,3,Ideal
+44,63,100,26,94,90,"Swapneel Seth, Benjamin C. Pierce, Oleg Sokolsky, Harry Smith",Mayur Naik,2,7,3,All professors come from another group
+45,65,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Daniel Hashimoto,2,7,6,All professors come from another group
+46,67,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Alejandro Ribeiro,2,7,2,All professors come from another group
+47,68,23,75,63,22,"Robin Pemantle, Ryan Baker, Yasmin Kafai, Mark L. Liberman",Weijie Su,2,7,1,All professors come from another group
+48,69,42,71,91,31,"Nadia Figueroa, Eric Eaton, Jianbo Shi, Michael Posa",Micheal Posa,5,2,2,Ideal

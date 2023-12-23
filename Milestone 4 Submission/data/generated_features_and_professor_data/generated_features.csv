@@ -1,0 +1,2271 @@
+,possible_features
+0,Autonomous multi-agent systems
+1,Communication network infrastructure optimization
+2,Agent positioning for optimal information transfer
+3,Connectivity maximization in agent networks
+4,Performance function for system optimization
+5,Application of shadow prices in convex optimization
+6,Multi-Commodity Flow Problem (MCFP) application in network modeling
+7,Utility maximization in MCFP
+8,Capacity constraints in network communication
+9,Perturbation theory in network optimization
+10,Use of dual variables in network adjustment
+11,Machine Learning Research
+12,Adaptive Conformal Prediction
+13,Motion Planning among Dynamic Agents
+14,Deterministic Control System
+15,Trajectory Predictors
+16,Prediction Uncertainty Quantification
+17,Online Algorithm
+18,Multistep-Ahead Predictions
+19,Model Predictive Controller
+20,Drone Navigation
+21,Dynamic Environments
+22,Autonomous Systems
+23,Uncertainty in Motion Planning
+24,Predictive and Reactive Approaches
+25,Safety in Autonomous Systems
+26,Prediction Quality Assessment
+27,Inter-Agent Interaction in Motion Planning
+28,Interaction and Performance Optimization in Motion Planning
+29,Statistical Machine Translation
+30,WMT Shared Tasks
+31,Standard News Translation Task
+32,Medical Translation Task
+33,Machine Translation Quality Estimation
+34,Metrics Task
+35,Evaluation of Machine Translation Systems
+36,"Machine Translation for Various Languages (Czech, French, German, Hindi, Russian)"
+37,Human Evaluation of Machine Translation
+38,Word-Level and Sentence-Level Prediction in Machine Translation Quality Estimation
+39,Cross-Lingual Information Retrieval
+40,Translation Systems Use in the Medical Field
+41,Domain Adaptation in Machine Translation
+42,Evaluation and Estimation Methodologies for Machine Translation
+43,D Human Pose Estimation
+44,Convolutional Networks (ConvNets)
+45,Two-Step Solution for D Pose Recovery
+46,Predicting Per Voxel Likelihoods for Each Joint
+47,Fine Discretization of D Space Around the Subject
+48,Coarse-to-Fine Prediction Scheme
+49,Employing Additional Camera Views
+50,Background Subtraction and Groundtruth D Joint Locations Assumptions
+51,Volumetric Representation for D Human Pose
+52,End-to-End Learning
+53,Performance Improvement Techniques
+54,Comparative Analysis of the Proposed Approach with Existing Methods
+55,You haven't provided any article to extract key features or topics from
+56,Please provide an article
+57,Mathematical Modeling of Quorum Sensing System in Bacteria
+58,Bioluminescence in Marine Bacterium Vibrio fischeri
+59,Hybrid System Analysis for Bioluminescence
+60,Stability and Reachability Analysis of Bacterial Luminescence
+61,Bioinformatics
+62,Control Theory Application on Quorum Sensing System
+63,Gene Expression and Luminescence Regulation
+64,Genetic Regulation of Bioluminescence
+65,Study of Vibrio fischeri and its Luminescence
+66,Hybrid Models in Biological Systems Analysis
+67,Study of Transcriptional Units in Biotransformation
+68,Game-theoretic model
+69,Interdependent Security (IDS)
+70,Security investment decisions
+71,Consequence of collective actions
+72,Cost-effectiveness of security investment
+73,Business and financial risk management
+74,Physical and medical security
+75,Computer network security
+76,Vaccination against infectious diseases
+77,Computing equilibria of IDS model
+78,Interdependent structure of problems
+79,Machine Learning Research
+80,Fast Algorithms
+81,Optimal Transport Computation
+82,High-dimensional Euclidean Spaces
+83,Metric Space for Probability Distributions
+84,Earth Mover’s Distance (EMD)
+85,Sinkhorn Distance
+86,Distribution Approximation
+87,Data Analytics in Geometric Spaces
+88,Wasserstein- Distance
+89,Dynamic Resource Allocation
+90,Soft Real-Time Multicore Systems
+91,DNA and DADNA Techniques for Resource Allocation
+92,Challenges in multicore systems
+93,Static Partitioning
+94,Dynamic Allocation
+95,Task Execution Characteristics and Phasing
+96,Xen Hypervisor
+97,Memory Bandwidth and Cache Capacity
+98,Interference and Isolation in multicore systems
+99,Issues on task schedulability and latency
+100,Neural Machine Translation
+101,Cross-Lingual Tasks
+102,Leveraging Wikipedia for Machine Translation
+103,Bilingual Dictionaries Extraction
+104,Cross-Lingual Word Embeddings
+105,BLEU Scores for Machine Translation Models
+106,Unsupervised Learning in Machine Translation
+107,Utilization of Translation Models for NLP tasks
+108,Image Captioning
+109,Cross-Lingual Dependency Parsing
+110,Unsupervised Learning Challenges for Low-Resource Languages
+111,Application of Machine Translation Models in Image Captioning and Dependency Parsing
+112,Utilization of Online Resources for Incidental Supervisions
+113,Calibrated Prediction
+114,Covariate Shift
+115,Unsupervised Domain Adaptation
+116,Predictive Models
+117,Importance Weighting
+118,Feature Map Learning
+119,Uncertainty Estimation
+120,Supervised Learning
+121,Neural Networks
+122,Temperature Scaling
+123,Electronic Health Records (EHR) and their role in patient care
+124,Objectives and expectations for EHR systems
+125,Challenges and impediments in current EHR implementation
+126,The intersection of technology and cognitive processes in health care
+127,"Overcoming issues of interoperability, patient access, and cognitive support in EHR systems"
+128,The influence of EHR stakeholders on system capabilities
+129,The need for quality improvement in EHR
+130,The concept of cognitive attention in healthcare and its impact on patient care
+131,"The role of health technology regulations, notably Safety Assurance Factors for EHR Resilience (SAFER) rules"
+132,Group Testing in Networks
+133,Correlation among Network Nodes
+134,Edge-faulty Graphs
+135,Modeling and Analysis of Group Testing on Correlated Nodes
+136,Lower and Upper Bounds on Number of Tests
+137,Defective Nodes Identification
+138,"Classes of Graphs: Cycles and Trees, d-regular Graphs and Stochastic Block Models"
+139,Interactions in the Network Nodes
+140,Importance of Exploiting Correlation in Group Testing
+141,Impact of Expected Number of Components on Number of Tests Needed
+142,Correlation between Total Number of Nodes and Equivalent Number of Independent Nodes
+143,Distribution of Component Sizes in d-regular Trees
+144,Forming Dense Subgraphs for Upper Bound Calculation
+145,"Improvement Factors in Different Graph Types (cycle, tree, grid and SBM)"
+146,Combinatorial and Information Theoretic Approach to Group Testing
+147,Provenance in scientific workflows
+148,Privacy concerns in scientific workflows
+149,"Data, module, and structural privacy"
+150,Privacy guarantees for provenance queries
+151,Information search and retrieval mechanisms
+152,Trade-offs between utility of information and privacy
+153,Design and theory of privacy in workflow provenance
+154,Keyword search for workflow specifications
+155,Confidentiality in Workflow Provenance repositories
+156,Integrity and protection in database management
+157,Deep Neural Networks
+158,Optimization Problems
+159,Convex Relaxations
+160,Worst-Case Performance Analysis
+161,Operator Splitting Method
+162,Large Convolutional Networks
+163,Image Classification
+164,Reinforcement Learning
+165,Neural Network Verification
+166,Robustness to Adversarial Attacks
+167,Neural Network Reachability Analysis
+168,GPU Acceleration
+169,Safety-Critical Applications of AI (e
+170,g
+171,", Autonomous Vehicles, Medical Machine Learning)"
+172,Bounding Performance of Neural Networks
+173,Variational Quantum Algorithms (VQA)
+174,Noise-Induced Gradient Vanishing in Quantum Algorithm Training
+175,Quantum Computing and Quantum Supremacy
+176,The Impact of Quantum Hardware Noise on VQA
+177,New Training Scheme for Mitigating Noise-Induced Gradient Vanishing
+178,Traceless Observables in Truncated Subspace
+179,Quantum Computing Applications in Optimization and Chemistry Simulation
+180,The Role of Observable in VQA
+181,Ansatz in Quantum Computing
+182,The Concept of Hermitian Operator in the Quantum System
+183,Automated Network Repair
+184,Meta Provenance in SDN Applications
+185,Network Debugging
+186,Software-defined Networks
+187,Provenance Concept in Database Community
+188,Identifying and Fixing Bugs in SDN Applications
+189,Testing and Debugging SDN Applications
+190,Candidate Repairs for Network Problems
+191,Backtesting Repairs using Historical Data
+192,Challenges in Network Repairing
+193,Physical Computing Systems
+194,Embedded and Real-time Systems
+195,"Wireless, Sensor, and Networking Technologies"
+196,Impact and Benefits of Integrated Computing in Everyday Life
+197,Data Accessibility and Services
+198,"Innovations in Major Systems (Transportation, Manufacturing, Infrastructure Protection, Process Control, Electricity Distribution)"
+199,Improved Safety and Living Standards
+200,Pervasive Computing
+201,Development of High-level System Software and Applications
+202,Low-level Embedded System Solutions
+203,Assisted Living Applications
+204,Emergency Response Systems
+205,Protection of Critical Infrastructures at the National Level
+206,Challenges and Opportunities in Health and Home Care Workforces
+207,Population Dynamics and their Impact on Physical Computing Systems
+208,Edge-Disjoint Paths Problem in Planar Graphs
+209,Maximum Edge-Disjoint Paths Problem
+210,Constant Congestion in Planar Graphs
+211,Multicommodity Flow Relaxation
+212,Decomposition of Well-Linked Subproblems
+213,Okamura-Seymour Instances
+214,Flow Relaxation in OS Instances
+215,Limitations on Well-Linked Decomposition
+216,Analysis of Algorithms and Problem Complexity
+217,Theory and Usage of Algorithms
+218,Multicommodity Flow in Undirected Graphs
+219,The Existence of a Flow vs
+220,Routability
+221,Study of Cut Condition
+222,Research Directions in Fractional or Integral Routability
+223,Wireless network broadcasting
+224,Designing minimum-latency broadcast algorithms
+225,One-to-all and All-to-all broadcast problems
+226,Collision and Interference issues in wireless communications
+227,Approximation algorithms for broadcasting problems
+228,Flooding as a broadcast mechanism and its drawbacks
+229,Improved algorithms for data broadcast problem
+230,The role of broadcasting in multihop wireless networks
+231,Role and application of network protocols for broadcasting
+232,Experimental evaluation and performance comparison of broadcasting algorithms
+233,Behavioral Economics
+234,Network Economics
+235,Bargaining in Social Networks
+236,Human Subject Experiments
+237,Game Theory in network-based models
+238,Influence of network topology on economic behavior
+239,Effects of Degree and Deal Limits on Bargaining Power
+240,Empirical studies on Mathematical Models
+241,"Concepts of ""Fairness"" in Deal Splits"
+242,Social Network Theory
+243,Peer Data Management Systems (PDMS)
+244,Data sharing and schema mapping in heterogeneous environments
+245,Query formulation and reformulation algorithms
+246,Indexing and access control over shared data
+247,Semantic data sharing
+248,Distributive and scalable data sharing
+249,"Challenges in sharing heterogeneous, semantically rich data"
+250,Schema mapping in distributed systems
+251,Integration and aggregation of data from multiple sources
+252,Development of mapping languages
+253,Biography and Professional Positions of Dinesh Jayaraman
+254,Computer and Information Science
+255,"Research in Robotics, Computer Vision, and Machine Learning"
+256,Concept of Attentive Abstractions in Vision-based Robot Learning
+257,"Pre-training, Task Specification, and Resource Allocation in Robotics"
+258,Education History in Electrical and Computer Engineering
+259,"Work and Awards at Various Institutes, including University of Pennsylvania, Facebook AI Research, and UT Austin"
+260,"Awards and Recognition in Computer Science, Robotics, and Engineering"
+261,Development of General-Purpose Robots for the Future
+262,Unmanned Aerial Vehicles (UAVs) and their usage in search and localization
+263,Unmanned Ground Vehicles (UGVs) and their limitations
+264,Seamless network creation of UAVs and UGVs
+265,Framework and algorithms for search and localization
+266,Application of robots in surveillance and exploration
+267,Robotic sensor platform deployment
+268,Fusion of information from multiple sources for target detection
+269,"Challenges of coverage, resolution, and computational constraints"
+270,Cooperative search and localization using heterogeneous teams of UAVs and UGVs
+271,Low-level control of UAVs and UGVs
+272,Integration and cooperation between aerial and ground vehicles
+273,"Challenges in planning for coverage and search, as well as localization"
+274,Benefits of reactive behaviors in robotic operations
+275,Benefits and limitations of using fixed-wing aircraft for surveillance
+276,Epidemic Processes on Networks
+277,Stochastic Dynamics of Spreading Processes
+278,Moment-Closure Techniques
+279,Mean-Field Approach
+280,Semidefinite Programming
+281,"SIS, SI, and SIR Models"
+282,Probabilities of Infection
+283,Complex Network Analysis
+284,Markov Transition Models
+285,Phase Transitions or Epidemic Thresholds
+286,Analysis of Network States
+287,Second-Order and Higher-Order Moments
+288,Linear Number of Piecewise-Affine Differential Equations
+289,Evolution of cooperation
+290,Contextualized behavior in social interaction
+291,Prosocial behavior in networks
+292,Social contexts impacting cooperation
+293,Mathematical modeling of cooperation
+294,Role of population structures in behavior evolution
+295,Imitation dynamics in static networks
+296,Influence of Social Networks on cooperation
+297,Unconditional vs conditional behaviors in social dilemmas
+298,Use of inclusive fitness theory in social scenarios
+299,Impact of social contexts on human behavior
+300,Mathematical Modeling of Epidemics
+301,Analysis and Control of Epidemics
+302,COVID- Pandemic
+303,Nonlinear Dynamics of Epidemics
+304,Resolution and Techniques for Epidemic Modeling
+305,Different Approaches for Epidemic Analysis and Control
+306,Estimation of Epidemic Parameters
+307,Centralized and Decentralized Intervention Techniques
+308,Resource Allocation Policies in Epidemics
+309,Systems and Control Theory
+310,Epidemic Spread Processes
+311,"Contributions in Modeling, Identification, Dynamic Analysis, Control, and Optimization"
+312,Polya Contagion Networks
+313,Networked Bivirus Epidemic Models
+314,Age-Differentiated Compartmental Models
+315,Role of Delays and Saturations in Epidemics
+316,Identifiability of Model Parameters
+317,Limited Measurements and Parameter Estimation
+318,"Control Design, Optimization, and Game Theoretic Problems"
+319,Actuation Mechanisms in Epidemics
+320,Optimized Opening and Lockdown Policies
+321,Screening and Curing Policies
+322,Behavioral Experiments
+323,Network Formation Game
+324,Competitive Coordination Task
+325,Communication Networks
+326,Social and Behavioral Sciences
+327,"Economics, Psychology, Sociology"
+328,Game Theory
+329,Experimentation and Human Factors
+330,"Large-scale Social, Technological, Organizational, and Economic Networks"
+331,Network Formation Models
+332,Stochastic Network Formation Models
+333,Erdos-Renyi Random Graph Model
+334,Small Worlds and Preferential Attachment Models
+335,Professional Networking Platforms like LinkedIn
+336,Individual and Collective Behavior Analysis
+337,Certified robustness of deep neural networks
+338,Real-world distribution shifts in data
+339,Neural-symbolic verification frame
+340,Generative models for learning perturbations
+341,"Challenges with S-shaped activations (such as sigmoid, tanh)"
+342,Counter-example-guided abstraction refinement (CEGAR) as a solution for handling S-shaped activations
+343,Robustness against adversarial perturbations and distribution shifts
+344,Effect of distribution-shift-aware algorithms on certified robustness
+345,Use of formal methods for verification guarantees of neural networks
+346,Specifying complex specifications through neural network components
+347,Use of deep generative models for real-world distribution shifts
+348,Challenges in verifying neural networks with sigmoidal activations
+349,Visibly Pushdown Languages
+350,Pushdown Automata
+351,Program Analysis
+352,Regular Languages
+353,"Union, Intersection, Complementation, Renaming, Concatenation, Kleene"
+354,Language Inclusion Problem
+355,Algorithmic Verification of Recursive Programs
+356,Monadic Second Order (MSO) Theory
+357,Regular Tree Languages
+358,Context-Free Grammars
+359,Infinite Words
+360,Determinizability
+361,Non-Deterministic Büchi Visibly Pushdown Automata
+362,Deterministic Muller Visibly Pushdown Automata
+363,Sequential Computation
+364,Software Model Checking Tools
+365,Regular Correctness Requirement
+366,Finite-State Automaton
+367,Provenance for relational query operators
+368,Linear algebra in data analytics
+369,Matrix data and linear algebra operations
+370,Provenance for aggregate queries
+371,Matrix inversion and graph analysis
+372,Provenance semirings
+373,Probabilistic mechanisms for learning weights
+374,Bulk operations over collections of data
+375,"Provenance in data analytics applications like image detection, signal processing, network science, and machine learning"
+376,"Matrix operations such as addition, multiplication and inversion"
+377,Dimensionality reduction and computing PageRank-style scores over network graphs
+378,Provenance partitioning and its selectors
+379,Tracking matrix data and provenance tokens
+380,"- Central Limit Theorem - Real Stable Generating Functions - Probability Generating Function - Multivariate CLT and Real Stable Laws - Random Nonnegative Integer Vectors - Variance and Nondegeneracy Condition - Combinatorial Conditions and Stein's Method - Spanning Tree Measures, Conditioned Bernoullis, and Determinantal Point Processes - Analysis of Random Combinatorial Objects - Classical Probabilistic Results Versus Combinatorial Applications - Conditions for Multivariate Normal Distribution Convergence - Occupation Counts of Disjoint Sets by a Determinantal Point Process"
+381,Quantum storage
+382,Trevisan’s extractor and its variants
+383,Bounded quantum storage adversaries
+384,Quantum functional access codes
+385,Random Access Codes
+386,List Decodable code
+387,Quantum random access codes
+388,Cryptographic applications of quantum storage and extractors
+389,Information Theory
+390,Quantum Informatics
+391,Quantum Computing
+392,Quantum Communication
+393,"- Timeliness of information transfer - Real-time application - Block coding - Arithmetic source coding - Average peak age of information (PAoI) - Arithmetic coding scheme - Rate efficiency - Compression rate - Look-ahead parameter - Traffic load - Information freshness focused scheduling for wireless networks - Age of Information (AoI) - Queuing theory - Performance metrics for real-time sensing, estimation, and control applications - Age-optimal block codes - Source and channel code designs - Sequential encoding/decoding strategies - Redundancy-delay tradeoff"
+394,Membership Inference Attacks
+395,Black Box Access to Trained Models
+396,Hypothesis Testing Problem
+397,Shadow Model Attacks
+398,Quantile Regression
+399,Confidence Score Distribution
+400,Privacy-Preserving Machine Learning
+401,Overfitting and its Impact on Training Data
+402,True Label Confidence as a Test Statistic
+403,Various Methods for Estimating Test Statistic Distribution
+404,Comparison of Different Attack Methods
+405,Model Architectures and Datasets
+406,Inter-Process Communication (IPC) mechanisms
+407,Limitations of current IPC mechanisms
+408,IoT and communication needs in modern devices
+409,Evolution of IPC to cater to IoT needs
+410,"Introduction of ""sprockets"""
+411,Use of RPC in program-level network-related functions
+412,Declarative interface generation
+413,Performance expectations and code semantics
+414,Improving IPC's communication needs
+415,OS-supported services for the communication of information
+416,ADHD in Adults
+417,ADHD Diagnosis and Treatment
+418,Underdiagnosis of ADHD
+419,Use of Technology and Social Media for ADHD Diagnosis
+420,Gathering corroborative data for ADHD Diagnosis
+421,Behavioral Assessment Technologies for ADHD
+422,The Role of Social Media in Understanding ADHD
+423,Language of ADHD on Social Media
+424,Predicting ADHD through Machine Learning
+425,Relation between Personal Characteristics and ADHD
+426,"Emotional Dysregulation, Self-Criticism, Substance Abuse, and Exhaustion in People with ADHD"
+427,Mark Liberman's education
+428,Mark Liberman's professional experience
+429,Linguistics
+430,Computer and Information Science
+431,Applied Mathematics
+432,Corpus-based phonetics
+433,Speech and language technology
+434,Linguistic analysis
+435,Lexical tone phonology and phonetics
+436,Linguistic annotation models
+437,Information retrieval and extraction from text
+438,Spoken communication organization in the human brain
+439,Language evolution and learning models
+440,Teaching at University of Pennsylvania
+441,Cognitive Science
+442,Phonetics
+443,Clinical linguistics
+444,Field linguistics
+445,Computer Analysis and Modeling of Biological Signals and Systems
+446,Molecular Biology
+447,Noncoding Genetic Associations
+448,Genetic Research Methods
+449,INFERNO Tool
+450,Citing and Referencing
+451,Research Publication Profiles
+452,Enhancement of Downloaded Files
+453,Author Collaborations
+454,Cyber-Physical Systems (CPS)
+455,Resilience in Cyber-Physical Systems
+456,Formal Verification of Resilience
+457,Computational Complexity of Resilience Problems
+458,Multiset Rewriting
+459,Autonomous Vehicles and Drones
+460,Adaptability in Mission Objectives
+461,Safety Measures in Autonomous Systems
+462,Effect of Regulatory Updates on Cyber-Physical Systems
+463,Distinction in CPS control Rules
+464,Compact Encodings
+465,Enumerations
+466,Data Structures
+467,Dagstuhl Workshop
+468,Princeton University Research
+469,Joint work methodology
+470,Contributions of Jessica Shi (MIT)
+471,Accountable Randomness
+472,Pseudo-random Sequences
+473,Distributed Systems and Node Failure
+474,Cryptographically Strong Techniques
+475,Accountability in Distributed Protocols
+476,Random Sampling in Server Billing
+477,PeerReview System for Node Accountability
+478,Byzantine Fault Detection
+479,Security Vulnerabilities in Distributed Systems
+480,Influence on Pseudo-random Numbers through Seed Manipulation
+481,Networked Systems Design and Implementation
+482,th USENIX Symposium proceedings
+483,Zeno: Diagnosing Performance Problems
+484,Temporal Provenance
+485,"Yang Wu, Facebook's research"
+486,"Ang Chen, Rice University's research"
+487,"Linh Thi Xuan Phan, University of Pennsylvania's research"
+488,Performance Issues Diagnosis
+489,Technology Conferences
+490,Open Access Publications
+491,Indirect Supervision in Natural Language Processing (NLP)
+492,Machine Learning (ML) Technologies for NLP
+493,The Use of Incidental Signals in Supervision
+494,Using Multi-modal Supervision for NLP
+495,Research on Supervision Challenges in NLP
+496,Pretrained Language Models (PLMs) and Supervision
+497,Task-Specific Labeling in NLP
+498,Use of Indirect Supervision in Various NLP Tasks
+499,Limitations and Advantages of Pretrained Language Models
+500,Use of Image/Video Knowledge in NLP
+501,Interplay between different NLP tasks (cross-task annotations)
+502,Introduction of New Frontiers and Emerging Challenges in Indirect Supervision
+503,Future Directions for Indirect Supervision Research
+504,Patent Applications
+505,US Patent Publications
+506,Techniques for Rectification of Camera Arrays
+507,Imaging Management Module
+508,Composite Rotation Matrix Calculation
+509,Intrinsic Parameter Matrix for Camera Array
+510,Rectification Maps for Camera Array
+511,Image Processing Techniques
+512,Camera Array Management
+513,Imaging Technique Patent Application by Multiple Inventors
+514,Complex Contagions
+515,Social Systems
+516,Spreading Dynamics
+517,Communication Theory
+518,Social Network Analysis
+519,Research Review of Complex Contagions
+520,Impact of Contagions on Society
+521,Hyper-graph Neural Networks
+522,System Level Synthesis
+523,Model Predictive Control
+524,Learning Lyapunov Functions
+525,Piecewise Affine Systems
+526,Neural Network Controllers
+527,Polytopic Model Uncertainty
+528,Asynchronous Temporal Interactions
+529,Inequalities in Complex Networks
+530,Reachability Analysis of Neural Network Dynamical Systems
+531,Safe Controller Design
+532,Control Barrier Functions
+533,Stability Analysis of Linear Parameter-Varying Systems
+534,Markov Jumps
+535,Learning Operators with Coupled Attention
+536,Efficient Eigenvalue Estimation in Multiagent Networks
+537,Network Switches and Scheduling Disciplines
+538,Privacy and Security Concerns in Network Communication
+539,Indifferent-First Scheduling (IFS)
+540,Challenges and Limitations of Network Switch Design for Privacy
+541,Push-In-First-Out (PIFO) Queuing Architecture
+542,Exploitation of Timing Side Channels
+543,Time-Division Multiple Access (TDMA)
+544,"Network Utilization, Fairness and Service Latency"
+545,Trade-offs between Privacy and Performance
+546,Scenarios of Network Privacy Breaches and Attacks
+547,Chromosome q
+548,deletion syndrome
+549,Genetic disorders and mental retardation
+550,Brain morphology in different samples
+551,Techniques for examining specific morphologic changes
+552,Gray and white matter and cerebrospinal fluid volume
+553,Displacement and morphologic changes to the corpus callosum
+554,"Neurocognitive implications of genetic disorders like Down, Williams–Beuren, Fragile X, and Turner syndrome"
+555,Brain development anomalies and their impact on cognitive function
+556,Visuospatial and numerical processing difficulties as a result of anomalous brain development
+557,The role of the posterior parietal lobule in brain dysfunction
+558,Personal Information and Contact Details
+559,"Research Interests: Cyber-physical systems, Real-time and embedded systems, Distributed systems, Internet of Things"
+560,Education: Ph
+561,D
+562,"in Computer Science, B"
+563,Comp
+564,(Honors) in Computer Science
+565,Dissertation: Formal Modeling and Analysis of Streaming Applications
+566,"Employment History: University of Pennsylvania, National University of Singapore, ETH Zürich"
+567,Career Advancement: Positions held from Research Assistant to Associate Professor
+568,"Honors and Awards: Multiple awards from IEEE Real-Time and Embedded Technology and Applications Symposium, ACM/IEEE Intl"
+569,"Conference on Embedded Software, National Science Foundation, National University of Singapore"
+570,Membership & Leadership: Inaugural class of the ACM Future of Computing Academy
+571,"The text provided appears to be largely random or encoded, making it near impossible to extract usable topics from it"
+572,"If this is an encryption, without a key or cipher, it's uninterpretable"
+573,"If it's corrupted or incorrectly formatted text, corrective measures would be necessary before interpretation"
+574,Resource partitioning in real-time embedded systems
+575,Limitations of real-time scheduling-based approaches
+576,Process algebraic framework for resource demand and supply
+577,Introduction of PADS for accommodating resource-supply processes
+578,The concept of compositional schedulability analysis
+579,Synthesizing an optimal supply process for a set of tasks
+580,Application of resource demand and supply modeling in real-time systems
+581,Component-based design and analysis methods for real-time embedded systems
+582,Standards and practices in real-time systems design (e
+583,g
+584,", ARINC- standard, hypervisors for real-time virtual machines)"
+585,Role and impact of component interfaces in schedulability analysis
+586,Degraded Broadcast Channels
+587,Capacity-Memory Tradeoff
+588,Caching Communications Phase
+589,Network Performance Optimization
+590,Peak Traffic Times Management
+591,Information-Theoretic Aspects of Cache-Aided Communications
+592,Noiseless Broadcast Networks
+593,Maximum Equal Rate Communication
+594,Receivers' Cache Sizes
+595,Package Erasure Channels
+596,Stochastically Degraded BCs
+597,Memoryless Broadcast Channel
+598,Server-User Information Transmission
+599,Library Message Distribution
+600,Machine Learning
+601,Knowledge Transfer
+602,Inductive Transfer
+603,Graph-based Method
+604,Transfer Relationships
+605,Source Models
+606,Problem Mapping
+607,Knowledge Discovery in Databases
+608,Transferability Metrics
+609,Lecture Notes in Computer Science Series
+610,Statistical Learning Theory
+611,Control Theory
+612,Integration of Machine Learning into Systems
+613,Dynamics and Control
+614,Linear Dynamical Systems
+615,Learning Algorithms in Modern Engineering Solutions
+616,Finite Sample Analysis of System Identification
+617,Learning-Based Offline Control
+618,Online Control Setting
+619,High-Dimensional Statistics
+620,Sample Efficiency and Fundamental Limits of Learning Algorithms
+621,Safety and Operational Limits in Machine Learning Applications
+622,System Identification
+623,Theory and Application of Non-Asymptotics
+624,Future Directions in Learning Theory and System Control
+625,Bayesian Optimization
+626,Nonmyopic and Myopic Approaches
+627,Multi-Step Lookahead Optimization
+628,One-Shot Optimization
+629,Stochastic Dynamic Programming
+630,Gaussian Process Fantasization
+631,Multi-step Expected Improvement
+632,Markov Decision Process
+633,Expensive-to-evaluate Black-box functions
+634,Exploration and Exploitation Trade-off in Decision Making
+635,Bicovering Graph Theory
+636,Vertex and Edge Analysis in Graphs
+637,Channel Allocation problem
+638,Strong Unique Game Conjecture
+639,Max Bi-Clique problem
+640,Approximation for Bi-Covering in Special Graph Classes
+641,Structural Analysis of Graphs
+642,Approximation Techniques in Graph Theory
+643,Computational Complexity of Bi-Covering
+644,Application and Impact of NSF Grants in Computational Research
+645,Theory of Computing
+646,Distributed Corruption Detection in Networks
+647,Directed Graph Model
+648,Truthful and Corrupt Nodes
+649,"PMC Model (Preparata, Metze and Chien)"
+650,Identification of faulty nodes in a network
+651,In-degree node property
+652,D-regular Graphs
+653,Expander Graphs
+654,Network Testing
+655,Graph Separators
+656,Classification of large fraction of network nodes
+657,Research in the field of Distributed Computing
+658,Subgraph Counting Problem
+659,Subgraph Enumeration Problem
+660,Design of Sublinear-Time Algorithms
+661,Approximate Counting for Arbitrary Graphs
+662,Database Join Size Estimation Problem
+663,Edge Sample Queries and Subgraph Occurrence Estimation
+664,"Use of Degree Queries, Pair Queries, and Neighbor Queries in Graph Analysis"
+665,Edge-Cover Fractional Value(ρ(H)) in Graphs
+666,Comparison of Algorithms for Counting Triangles and Cliques
+667,Graph Coloring and Estimation Problems
+668,Theoretical Lower Bound Establishment
+669,Inverse Design of Particle Spectral Emissivity
+670,Machine Learning in Optical Properties
+671,Nano and Micro Particles Optical Properties
+672,Forward and Inverse Problem Solution Using Machine Learning
+673,Decision Tree and Random Forest Models in Optical Properties
+674,Use of Maxwell’s Equations
+675,Light-Matter Interactions and their applications
+676,The Nonlinear Inverse Design Problem
+677,Optimisation Techniques in Particle Design
+678,Volumetric and Surface Mode Emissions of Particles
+679,Diversity of Dataset in Optical Property Design
+680,Rapid Design of Devices Using Machine Learning
+681,Streaming algorithms
+682,Euclidean Minimum Spanning Tree (MST)
+683,Cost computation
+684,High dimensional spaces
+685,Constant factor sublinear space approximation
+686,Linear sketches
+687,Massively-Parallel Computation model (MPC)
+688,Approximation methods in low vs high-dimensional spaces
+689,Algorithm efficiency
+690,Single-pass and multi-pass algorithms
+691,Queue measurement
+692,Network performance diagnosis
+693,Congestion regimes
+694,Data plane monitoring system
+695,Programmable networks
+696,Network monitoring
+697,Data path algorithms
+698,In-network processing
+699,Queuing delays
+700,Differentiated classes of service
+701,Flow measurement
+702,Heavy-hitter analysis
+703,Packet-sampling approach
+704,Performance Anomalies
+705,Historical network effects
+706,Mixed-Criticality Systems
+707,Task-Level Mode Switch in mixed-criticality systems
+708,Optimizing Mixed-Criticality System Scheduling
+709,Role of Worst-Case Execution Time in mixed-criticality systems
+710,High-Criticality Tasks and Low-Criticality Tasks
+711,Adaptive Task Dropping in mixed-criticality systems
+712,Real-world applications of mixed-criticality systems (e
+713,g
+714,avionics and automotive systems)
+715,Schedulability Analysis in mixed-criticality systems
+716,Development of new scheduling algorithm for mixed-criticality systems (MC-ADAPT)
+717,Effective Resource Utilization in mixed-criticality systems
+718,Dynamic System Behavior and Decision Making in mixed-criticality systems
+719,Learning Analytics and Educational Data Mining
+720,The emergence of “big data” in education
+721,The development of Educational Data Mining (EDM) and Learning Analytics and Knowledge (LAK) research communities
+722,International conferences and publications on EDM and LAK
+723,Differences and similarities between LAK and EDM
+724,The importance of collaboration and communication between LAK and EDM
+725,The role of analytics in improving teaching and learning processes
+726,The use of advanced computation and extensive educational media in education
+727,"The application and impact of data mining and analytics in schools, universities, and corporate learning organizations"
+728,The establishment of societies and institutions dedicated to EDM and LAK
+729,The growing influence of machine learning and artificial intelligence in educational research and practices
+730,The text provided doesn't contain any clearly identifiable topics as it seems to be a series of random codes or alphanumeric tags
+731,Dialog System Evaluation
+732,Psychological Metrics in Conversation Analysis
+733,Emotional Entropy
+734,Linguistic Style and Emotion Matching
+735,Agreeableness and Empathy in Dialogs
+736,Comparison of Psychological Metrics and Traditional Metrics
+737,Application of Psychological Metrics in Dialog Systems
+738,Evaluating Dialog Systems Using Human-like Attributes
+739,Use of Psychology in Improving Conversational AI
+740,The Three Bot Dialog Evaluation Corpus
+741,"Analysis of ChatGPT, GPT-, and BlenderBot"
+742,Internet Security
+743,Packet Authentication
+744,IP Spoofing
+745,Preventing False Accusations
+746,Verification of Traffic Source
+747,Accountability in Internet Communication
+748,Vulnerabilities in Interdomain Routing Protocol (BGP)
+749,Protection against Malicious Users
+750,Online Verification Systems
+751,Relevant Legal Prosecutions
+752,The text provided doesn't provide any recognizable content to extract key topics from due to its coded/unreadable nature
+753,It appears to be a string of coded messages or encrypted text
+754,"Given this, no valid topics could be determined"
+755,Evolution of Cloud Data Centers and performance tuning for data analytics applications
+756,TeShu: Network shuffling as a unified service layer
+757,Introduction of parameterized shuffle templates
+758,"Key phases of data processing: compute, combine and shuffle"
+759,"Challenges in shuffle phase: Compression, serialization, message processing, and transmission"
+760,Influence of workloads and data center architecture on performance tuning
+761,Shift towards disaggregated in-memory and virtual disk storage
+762,Templated shuffle (TeShu) layer that adapts to application data and data center infrastructure
+763,Infrastructure-aware optimizations in TeShu
+764,Adaptability of TeShu in different network topologies and failure scenarios
+765,Design and application of shuffle templates
+766,Evaluation of TeShu on real-world graph workloads
+767,Sampling-based parameter tuning in TeShu
+768,Network Alignment
+769,Graph autoencoder architecture
+770,Eigenvalues and Eigenvectors in Graphs
+771,Transfer Learning
+772,Data Augmentation
+773,Scalability in Network Alignment
+774,Node Embeddings
+775,Quadratic Assignment Problem (QAP)
+776,Optimization Algorithms
+777,Embedding Methods
+778,Graph Theory Applications
+779,Computer Vision and Graphs
+780,Bioinformatics and Network Alignment
+781,Social Network Analysis
+782,Synthesizing recursive Datalog programs
+783,Constraint-based synthesis approach
+784,Application in automatic construction of program analyses
+785,Programming by Example (PBE)
+786,Use of Datalog in diverse fields such as information extraction and graph analytics
+787,Programming and AI verification
+788,Automated synthesis of static analyses
+789,Test-driven development
+790,Use of SMT solver for Datalog programming
+791,Horn clause encoding in Datalog programming
+792,Vehicular Ad hoc Networks (VANETs)
+793,Large-scale deployment challenges of VANETs
+794,Network performance estimation in VANETs
+795,Connectivity analysis of VANETs
+796,"Relationship between network connectivity, vehicle density, and transmission range"
+797,Use of bond percolation model and Bollobás model in VANETs analysis
+798,Network protocol standards in VANETs
+799,Comparisons of VANETs with Mobile Ad hoc Networks (MANETs)
+800,Role of Road Side Units (RSUs) in VANETs
+801,Deep Neural Network (DNN) compression systems
+802,Vulnerabilities to distribution shifts in machine learning systems
+803,Out-of-distribution (OOD) data
+804,OOD robust compression
+805,Wasserstein balls and group shifts
+806,Distributionally-robust optimization (DRO)
+807,Structured latent code
+808,Tradeoffs between robustness and distortion
+809,Real world applications and limitations of DNN- based compressors
+810,Resilience to perturbed or out-of-distribution data
+811,Computational requirements of optimal compression schemes
+812,Comparisons with traditional compression schemes
+813,Information theory literature
+814,Universal lossy compression
+815,Media's Role in Elections
+816,New vs Traditional Media
+817,Impact of Media on Electorate
+818,Journalism Challenges
+819,Economic Crisis and Media
+820,Decline of Newspapers & Rise of Digital Media
+821,Media and Politics
+822,Women and Journalism
+823,Scandals in Journalism
+824,Innovations in News Industry
+825,Social Media and Democracy
+826,Freedom of Speech in Online Platforms
+827,Role of Facebook in Public Discourse
+828,Electrical & Systems Engineering
+829,Computer & Information Science
+830,Networked & Social Systems Engineering
+831,Data Sciences
+832,Applied Math and Computational Science
+833,Academic Achievements & Awards
+834,"Professional roles (Visiting Scholar, Postdoctoral Researcher, Visiting Professor)"
+835,Research Interests
+836,Epidemic modelling and control
+837,Resilience of networked infrastructure
+838,Brain dynamics
+839,Information spreading over socio-technical networks
+840,High-dimensional dynamical systems modelling and control
+841,Network Science and Engineering
+842,Control of Networked Systems
+843,Fair Machine Learning Algorithms
+844,Minimax Group Fairness
+845,Game Theory
+846,Regression and Classification Models
+847,Overall Error and False Positive/Negative Rates in Machine Learning
+848,Trade-off Between Accuracy and Fairness in Machine Learning
+849,Equality of Error Rates in Group Fairness
+850,"Protected Attributes in Machine Learning (Race, Gender, Ethnicity)"
+851,Impact of Machine Learning on Social Welfare
+852,Predictive Modelling in High-stakes Applications
+853,Minimax Error Rate in Group Fairness
+854,Pareto Dominance in Classification Models
+855,Internet Metadata and Privacy Concerns
+856,Differential Privacy Concept
+857,NetFlow Records
+858,"""Knowledge Plane"" Proposal for the Internet"
+859,Internet Data Collection and Analysis
+860,Distributed Troubleshooting and Traffic Management
+861,Network Measurement and Collaboration
+862,IP Address Tracking and Personal Information Leakage
+863,Privacy Protection Measures in Data Release
+864,"Use of Differential Privacy in Internet's ""Knowledge Plane"""
+865,Limitations and Challenges in Differential Privacy Usage
+866,Depression
+867,Machine Learning
+868,Language Sentiment Analysis
+869,Digital Phenotyping
+870,Personal Sensing
+871,Text Message Analysis
+872,Predictive Models for Depression
+873,Smartphone Sensor Data
+874,Data Privacy
+875,Longitudinal Observational Study
+876,Mental Health Monitoring
+877,Impact of Demographic Factors on Language Use
+878,Influence of the COVID- outbreak on Data Quality
+879,Neural Networks
+880,Computational Maps
+881,Reflexive Motor Control
+882,Application of Machine Learning in Biomedical Science
+883,Conference Paper Analysis
+884,Authors' Academic Profiles
+885,Scientific Research Citations
+886,Probabilistic Logic Programming (PLP)
+887,Data Provenance
+888,Debugging and analyzing PLP
+889,P (Provenance for Probabilistic Logic Programs)
+890,Provenance queries
+891,Probabilistic provenance
+892,Modification queries in PLP
+893,The role of probabilistic reasoning in PLP
+894,The use of PLP in various data intensive applications
+895,The development and application of PLP languages
+896,Narrative Generation Paradigms
+897,Open World Problem Solving
+898,Partial Order Planning (POP)
+899,User-Interaction in Open-World Environments
+900,Dynamic Partial Planning Techniques
+901,Narrative Self-repair Mechanisms
+902,Scalable and Robust Frameworks for Narrative Generation
+903,Real-time Narrative Replanning
+904,Content Creation in Open World Narratives
+905,Planning Time Optimization Techniques
+906,Interactive Movies and Historical Event Reconstruction
+907,Real-time Character and Action Relevance in Narratives
+908,"Modular, Robust, and Scalable System Architecture for Narrative Generation"
+909,Parameterized Behavior Trees
+910,Interactive Behavior Trees (IBTs)
+911,Conflict Resolution in Free-Form User Interaction
+912,Use of Decision Trees in Narrative Generation
+913,Action Relation Mapping
+914,Planning Time Costs Comparison
+915,Mediation Concept in Planning
+916,Algorithm Optimization in Narrative Generation
+917,Comprehensive Evaluation of Narrative Generation Techniques
+918,Comparison and Evaluation of Classic Planners
+919,Early-Onset Alzheimer’s Disease
+920,Whole-Genome Sequencing
+921,Research Methodology
+922,Genetic Variants in Alzheimer's Disease
+923,Molecular Etiology of Early-Onset Alzheimer's Disease
+924,"Clinical, Neuropathological, and Biomarker Data"
+925,Genomics Resource for Alzheimer's Disease
+926,Prediction Models for Early-Onset Alzheimer's Disease
+927,Genetic Overlap with Cardiovascular and Other Traits
+928,Alzheimer’s Disease Sequencing Project (ADSP)
+929,Novel Risk Loci and Druggable Targets in EOAD
+930,Local-Ancestry Effects in EOAD
+931,Alzheimer’s Research and Study Design
+932,Legged Locomotion
+933,Comparative Measurement of Agility
+934,Design and Control Principles for Steady-state Locomotion
+935,Metrics for Assessing Agility in Legged Transitions
+936,Morphological Features Impacting Leaping Performance
+937,Use of Endurance and Specific Agility Measures
+938,Comparative Analysis of Robots: Canid and XRL
+939,Influence of Parallel Elastic-actuated Spine on Leaping Agility
+940,Experimental Robotics
+941,Future work in Legged Robotic Agility
+942,Concept of core actuation and more
+943,Learned Query Optimization
+944,Query Superoptimization
+945,Role of Traditional Query Optimizers
+946,Utilization of Iterative Bayesian Optimization and Program Synthesis
+947,Artificial Intelligence in Query Optimization
+948,Impact and Contribution of Exhaustive Plan Search
+949,Importance of Analytics Workloads
+950,Role of Cardinality Estimates
+951,Program Compilation and Superoptimization
+952,Future Research Directions in Query Superoptimization
+953,Cognitive Science
+954,Group-Based Structures in Organizations
+955,Group Performance Improvement
+956,Individual Attributes Predicting Group Performance
+957,Skill Level and Skill Diversity in Groups
+958,Social Perceptiveness in Group Dynamics
+959,Cognitive Style Diversity in Groups
+960,Collaborative Behavior and Performance Outcomes
+961,Turn-Taking Behavior in Groups
+962,Communication Efficiency in Groups
+963,Group Compositional Factors
+964,Symmetric Normed Space
+965,Nearest Neighbor Search Data Structure
+966,Doubly-Logarithmic Approximation
+967,Low-Distortion Embedding
+968,Iterated Product of Top-k Norms
+969,Limitations with General Norms
+970,Efficiency and Space Utilization
+971,Computational Algorithms
+972,Software-Defined Networks (SDNs)
+973,Debugging and Root Cause Analysis in SDNs
+974,Automated Bug Removal
+975,Data Provenance in SDNs
+976,Meta Provenance Concept
+977,Influence of Controller programs on SDN bug fixing
+978,Automated Repair for SDN applications
+979,Use of historical data for candidate repairs elimination
+980,Network Provenance Concepts in SDNs
+981,Resilient Structural Stabilizability of Undirected Networks
+982,Continuous-time linear time-invariant (LTI) systems and symmetric state matrices
+983,Graph-theoretic necessary and sufficient conditions for structural stabilizability
+984,Optimal actuator-disabling attack problem and its NP-Hard nature
+985,Optimal recovery problem and its NP-Hard nature and the development of an approximation algorithm
+986,Networked dynamical systems control
+987,Impact of system parameters on stabilizability analysis
+988,Investigation of the interplay between network’s structure and stabilizability
+989,Network security and stabilization under various attacks
+990,The role of adding extra actuators/sensors for ensuring controllability/observability
+991,The importance of maintaining stabilization under uncertain feedback-channel failure
+992,Optimal attack/recovery on the stabilizable subspace of a network
+993,Signal and Information Processing Research
+994,Distributed Collaborative Intelligence
+995,Autonomous Agents
+996,Network Interactions
+997,Wireless Autonomous Networks
+998,Machine Learning on Network Data
+999,Algorithms for Distributed Collaborative Learning
+1000,Electrical and Systems Engineering
+1001,Data Processing and Behavior Design
+1002,University of Pennsylvania Research Programs
+1003,Stochastic Matching Problem
+1004,Non-Adaptive Algorithms
+1005,Maximum Matching Size
+1006,Expected Maximum Matching Size
+1007,Constant Probability Realization of Graph Edges
+1008,Algorithm for Stochastic Matching
+1009,Structural Analysis of Graphs
+1010,Bounded-Degree Subgraphs
+1011,Approximation Ratio
+1012,Application to Kidney Exchange
+1013,Graph Theory
+1014,Computational Complexity
+1015,Analysis of Algorithms Efficiency
+1016,Deep Networks and Invariances
+1017,Performance of Classifiers in Generalization
+1018,Nuisance Transformations in Image Classification
+1019,Class Imbalance in Real-World Datasets
+1020,Transfer of Learnt Invariances Across Classes
+1021,Impact of Class Size on Invariance
+1022,Generative Approach for Learning Nuisance Transformations
+1023,Performance Improvement Techniques for Imbalanced Classification Benchmarks
+1024,Challenges in Data Augmentation
+1025,The Issue with Long-Tailed Distributions in Datasets
+1026,Machine Unlearning
+1027,Data Deletion Algorithms
+1028,Convex Optimization and Reservoir Sampling
+1029,Data Deletion Criteria
+1030,Privacy and Data Autonomy
+1031,Influence of Individual Data on Train Models
+1032,User Data and Online Services
+1033,"""Right to be Forgotten"" in General Data Protection Act (GDPR)"
+1034,Predictive Models and Deletion Operation
+1035,Approximate Deletion and Differential Privacy
+1036,Adversarial Updates
+1037,Retraining vs Deletion Algorithms Efficiency
+1038,Statistical Indistinguishability of Observable Output
+1039,Cryptographic primitives
+1040,Computational learning theory
+1041,Hard learning problems
+1042,Construction of cryptographic primitives
+1043,Cryptographic impact on development of learning theory
+1044,Correlation between difficulty of learning and cryptography
+1045,Pseudorandom bit generators
+1046,One-way functions
+1047,Private-key cryptosystems
+1048,Complexity of cryptographic primitives
+1049,Degree of parallelism in functions
+1050,Transformation of hard learning problems into cryptographic primitives
+1051,Significance of modern cryptography in research
+1052,Impact of learning theory on cryptography
+1053,Assumption on intractability of learning problems
+1054,Learning-based Model Predictive Control (MPC) Frameworks for Robotic Systems
+1055,Offline vs
+1056,Online Learning in MPC Frameworks
+1057,L-Adaptive Control Integration with Learning-based MPC
+1058,Uncertainty Compensation in Learning-based MPC
+1059,Applying Learning-based MPC to Aerial Robots (Quadrotor Systems)
+1060,"Use of Machine Learning Techniques (Gaussian Processes, Neural Networks) for Dynamics Model Construction"
+1061,Simulation and Physical Experimentation in Learning-based MPC
+1062,Impact of Spatio-temporal Uncertainties on Control Performance
+1063,Knowledge-Based Neural Ordinary Differential Equation (KNODE) Model
+1064,The role of Data Availability and Reliability in MPC
+1065,Cyberphysical Systems (CPS) security
+1066,Vulnerabilities of CPS components to attacks
+1067,Attack-resilient state estimation strategies
+1068,Noise-influenced dynamical systems
+1069,Role of sensor and actuator attacks in CPS
+1070,Use of cryptographic security techniques and their limitations
+1071,Analysis of state-estimation errors caused by noise
+1072,Identification and detection of attacks
+1073,Analysis of l and l-based state estimators
+1074,Impact of bounded-size noise on state estimation
+1075,Identification of compromised sensors
+1076,Variational Inference
+1077,Bayesian methods
+1078,Kullback-Leibler divergence
+1079,Linear Time-Invariant (LTI) and Linear Parameter-Varying (LPV) systems
+1080,Identification of systems with latent sources of variation
+1081,Application of variational inference to linear systems
+1082,Parameter estimation algorithms
+1083,Modeling and control in complex domains like biological systems and neuroscience
+1084,Expectation-Maximization methods
+1085,Time-invariant and parameter-varying input-to-state actuation
+1086,Posterior distribution approximation
+1087,Handling of noisy or partially available information of system parameters
+1088,Educational Data Mining
+1089,Learning Analytics
+1090,Constructionist Research
+1091,Technology in Education
+1092,Knowledge and Learning
+1093,Usage of ResearchGate
+1094,Academic Citations
+1095,Academic Publications
+1096,"Role of Individual Authors in Research (Ryan Baker, Paulo Blikstein)"
+1097,University of Pennsylvania & Columbia University Research
+1098,Computer & Information Science
+1099,Temporal Logic
+1100,Test Coverage
+1101,Test Generation
+1102,Theory Development
+1103,Scholarly Communications
+1104,Departmental papers
+1105,Conference papers & proceedings
+1106,Scholarly repositories
+1107,Publication Practices
+1108,Adaptive Sublinear Algorithms
+1109,Detection of Monotone Patterns
+1110,Query Complexity
+1111,Length-Increasing Subsequence
+1112,Non-Adaptive Lower Bound
+1113,Monotonicity Testing
+1114,Longest Increasing Subsequence (LIS)
+1115,Optimal Adaptive Detection
+1116,Algorithmic Verification of Real-Time Systems
+1117,Parametric Timed Automata
+1118,Symbolic Constraints on Timing Properties
+1119,Finite-State Machines with Parametric Timing Constraints
+1120,Gap in Automata Theory
+1121,Decidability and Undecidability in Automata
+1122,Real-Time Systems Verification Examples
+1123,Nontrivial Class of Parametric Verification
+1124,Qualitative vs
+1125,Timing Properties Verification
+1126,Research in Reactive and Concurrent Systems Verification
+1127,Parametric Reasoning in Real-Time Systems
+1128,Concrete vs
+1129,Parametric Timing Constraints
+1130,Real-Time Protocols and Timing Properties
+1131,Computer and Systems Architecture
+1132,High Performance Computer Architecture
+1133,Sharing Detection and Repair (LASER)
+1134,Department of Computer & Information Science at University of Pennsylvania
+1135,Scholarly Communication in Computer Science
+1136,IEEE International Symposium on High Performance Computer Architecture
+1137,Academic Papers and Repositories
+1138,Machine Learning and Artificial Intelligence Applications in Computer Science
+1139,Postdoctoral research
+1140,Biomedical data analysis
+1141,Multi-omics data
+1142,Informatics in healthcare
+1143,Machine learning in health data analysis
+1144,Alzheimer's Disease Neuroimaging Initiative
+1145,Alzheimer's Disease Metabolomics Consortium
+1146,Mendelian randomization
+1147,Genetic variants as instrumental variables
+1148,Pleiotropic associations
+1149,Health data privacy and fairness
+1150,Gene prioritization in diseases
+1151,GWAS and QTL summary data analysis
+1152,"Transcriptomics, proteomics, metabolomics"
+1153,The role of specific genes (ABCA and ATPB) in Alzheimer's disease
+1154,Variational methods for anatomical averaging
+1155,Large deformation viscous framework
+1156,Average transport ordinary differential equation
+1157,Geodesic in image movement
+1158,Large deformation atlases
+1159,Image registration assumptions
+1160,Constant arc length geodesic shape interpolation
+1161,Comparison with Euclidean anatomical average
+1162,Nonrigid image registration
+1163,Inverse consistency in image registration
+1164,Geodesic averaging
+1165,Morphometry
+1166,Use of atlases in medical diagnostics and research
+1167,Relationship between genotype and phenotype
+1168,Averaging transformations in medical image processing
+1169,Use of MR images in constructing computerized atlases
+1170,Statistical models in anatomical studies
+1171,Minimization in the registration problem
+1172,Use of differential measures for smoothing in face of ill-posed problems
+1173,Distributed Analysis for Regressions
+1174,Electronic Health Records (EHRs)
+1175,Precision Medicine
+1176,Data Privacy and Regulation
+1177,Patient-level Data Sharing Challenges
+1178,Distributed Learning
+1179,Communication Efficiency
+1180,Method for Aggregating Local Optimal Estimates
+1181,Formal verification of a networked server
+1182,Use of Interaction trees in programming
+1183,Integrating software verification and testing tools
+1184,"Server behavior specifications ""one client at a time"" style"
+1185,Low-level buffering of messages and interleaving of multiple TCP connections
+1186,Network refinement in observational refinement
+1187,Formal software verification
+1188,Property-based random testing
+1189,Implementation and specification validation
+1190,Use of CompCert verified compiler and CertiKOS
+1191,Simplified server swap interface
+1192,End-User Audits
+1193,Large-Scale Investigations
+1194,Harmful Algorithmic Behavior
+1195,System Performance
+1196,User-Centered Performance
+1197,System Outputs Labeling
+1198,Disagreement Between User and System
+1199,Audit Visualization
+1200,Hypothesis Generation
+1201,Evidence Identification
+1202,Results Communication
+1203,Collaborative Filtering Technique
+1204,Algorithm Audits
+1205,User and System Interaction
+1206,Machine Learning and Prediction with Full Dataset
+1207,IndieLabel - a tool for end-user auditing
+1208,Areas of High Disagreement
+1209,Algorithmic Impacts
+1210,Privacy and User Data
+1211,Human-Computer Interaction
+1212,Public Opposition to Unauthorized Immigration
+1213,Personal Economic Shocks
+1214,Influence of Economic Circumstances on Immigration Attitudes
+1215,Labor Market Competition
+1216,Role of Job Losses on Anti-immigration Sentiments
+1217,Sociopolitical Impacts on Immigration Perspectives
+1218,Education Level and Its Effect on Immigration Views
+1219,Cultural Aversion towards Immigrants
+1220,Impact of Immigration on Low-skilled Natives
+1221,Research on Public Attitudes Towards Immigration
+1222,Integrated access to heterogeneous datasources in biomedicine
+1223,"Experimental strategies for link-driven federation of databases, view integration, and warehousing"
+1224,K and GUS systems developed at the University of Pennsylvania
+1225,View integration versus data warehousing approaches
+1226,"Considerations for selecting a suitable strategy including data characteristics, performance requirements, and available programming resources"
+1227,Role of database updates and XML in processing updates in a warehousing environment
+1228,Genomic data available for refinement and analysis
+1229,Use of genomic information in researching multigenic neurological disorders
+1230,Challenges in accessing genomic information due to dispersion across multiple sources and formats
+1231,"Examples of databases for genetic research like GenBank, SWISS-PROT, OMIM, EMBL, and DDBJ"
+1232,- Robotic Automation - Inverse Reinforcement Learning (IRL) - Visual Demonstrations - High-Dimensional State-Spaces - Machine Learning in Robotics - Object Manipulation Tasks - Dynamic Models - Predictive Control - Learning from Human Demonstrations - Computationally Intensive Optimization - Visual Dynamics Models - Keypoint Representations
+1233,Group Testing in Experimental Design
+1234,Applications in Computational Biology
+1235,Sequence Mapping and Screening Libraries
+1236,Novel Group Testing Problems in Molecular Biology
+1237,Experiment Design Optimization
+1238,Screening Libraries with Hybridization Probes
+1239,Finding Genes through Group Testing
+1240,Sequencing by Hybridization
+1241,Medical Testing of Biological Samples
+1242,Pool and Querying Process in Biological Screening
+1243,Program Adverbs
+1244,Tlön Embeddings
+1245,Semantic and Syntactic Structure of Programming Language
+1246,Compositional Definition of Semantics
+1247,Computational Modeling of Effects
+1248,Software Verification
+1249,Program Verification
+1250,Formal Verification
+1251,Mechanized Reasoning
+1252,Semantic Embeddings
+1253,Formal Reasoning Systems
+1254,Shallow Embeddings
+1255,Deep Embeddings
+1256,Effectful Programs
+1257,Software Engineering
+1258,Theory of Computation
+1259,Operator Splitting Methods
+1260,Three-Operator Splitting (TOS) Method
+1261,Composite Optimization Problems
+1262,Convergence Rates in TOS
+1263,Robust Control Theory
+1264,Matrix Inequalities
+1265,"Signal Processing, Control, and Machine Learning Applications"
+1266,Regularity Assumptions in TOS
+1267,Optimal Control Problems
+1268,Dynamical System Analysis
+1269,Parameter Selection for Optimal Performance
+1270,Proximal Operator and Stepsize
+1271,Saguaro: A Permissioned Blockchain System
+1272,Edge Computing Networks
+1273,Hierarchical Structure of Edge Computing Networks
+1274,Cross-Domain Transactions
+1275,Data Aggregation in Higher-Level Domains
+1276,Processing Transactions by Mobile Edge Devices
+1277,Scalability of Saguaro
+1278,Challenges and Opportunities in Edge Computing
+1279,Distributed Applications in Edge Computing
+1280,Permissioned Blockchains in Wide-Area Networks
+1281,Mobility of Nodes in Blockchain Systems
+1282,Consensus Protocols and Replication in Blockchain Systems
+1283,Fault-tolerant Domains in Edge Computing Infrastructures
+1284,Blockchain Sharding and Its Limitations
+1285,Differential Privacy
+1286,Query Sensitivity
+1287,Tools for Certifying Differential Privacy
+1288,Fuzz Programming Language
+1289,Linear Indexed Types
+1290,Development and Application of DFuzz
+1291,Iterative Algorithms
+1292,Language Classifications in Programming
+1293,Theory of Computation
+1294,Data Privacy
+1295,Robotics and Automation
+1296,Design Principles for Direct-Drive Legged Robots
+1297,Quadruped and Biped Robots
+1298,Minitaur: A Novel Class of Direct-Drive Legged Robots
+1299,Direct-Drive Robot Design Advantages and Disadvantages
+1300,Electricity-Efficiency and High Actuation Bandwidth in Direct-Drive Robotics
+1301,Transparency and Mechanical Robustness in Robotics
+1302,High-Actuation Bandwidth in Robotics
+1303,Mechanical Efficiency in Robot Design
+1304,Gearboxes and Actuator Design in Robotics
+1305,"The Role of Gearboxes in High-Torque, Low-Speed Regimes"
+1306,Application of Natural Machine Motion in Robotics
+1307,Applied Mathematics
+1308,Deep Neural Networks
+1309,Layer-Peeled Model
+1310,Nonconvex Optimization
+1311,Imbalanced Training
+1312,Neural Collapse
+1313,Minority Collapse
+1314,Class Imbalance in Deep Learning
+1315,Theoretical Foundation for Deep Learning
+1316,Stochastic Gradient Descent
+1317,Weight Decay Parameter
+1318,USB Flash Drive Security
+1319,Vulnerabilities in USB Driver Systems
+1320,Virtual File Systems (VFS)
+1321,RBFuse system for safe USB interaction
+1322,Interaction between host and USB flash drives through VFS
+1323,Prevention of USB-based cyberattacks
+1324,Performance optimization for networked file systems
+1325,Formal verification and crash consistency in file systems
+1326,Encryption for secure file and metadata transfer
+1327,Application of the RBFuse system in other USB devices
+1328,Actuator Transparency
+1329,Energetic Cost of Proprioception
+1330,Haptic Interfaces
+1331,Use of Actuators in High-Performance Robots
+1332,Perception of Environment by Robots
+1333,Force Generation for Robot Locomotion
+1334,Force Perception Skills in Robots
+1335,Robotic Contact Detection Experiments
+1336,Collision Energy and Detection Time Delay
+1337,Electromagnetic Direct-Drive Motor
+1338,Geared Reduction Actuation
+1339,Mechanical Engineering and Robotics
+1340,Quantitative Analysis of Transparency
+1341,Federated Learning (FL)
+1342,Client Heterogeneity
+1343,Sparse Gradients in Federated Learning
+1344,Linear Convergence in Federated Learning
+1345,Systems Heterogeneity
+1346,Gradient Sparsification
+1347,Intermittent Communication in FL
+1348,Algorithmic Framework for Federated Learning (FedLin)
+1349,Objective Heterogeneity in Federated Learning
+1350,Privacy Considerations in FL
+1351,Speed-Accuracy Conflict in FL Algorithm
+1352,Empirical Risk Minimization (ERM) Framework
+1353,"Specific Machine Learning Tasks (classification, inference, regression) in FL"
+1354,Cloud Computing
+1355,IT Infrastructure
+1356,Risks in Cloud Computing
+1357,Accountability in Cloud Services
+1358,Data Security and Privacy
+1359,Performance of Cloud Services
+1360,Virtual Machines
+1361,Data Loss and Recovery
+1362,Resource Allocation in Cloud
+1363,Service Level Agreements (SLAs)
+1364,Vulnerabilities and Threats in Cloud Services
+1365,Costs and Economies of Scale in Cloud Computing
+1366,Technical Requirements for Cloud
+1367,Current Limitations in Cloud Accountability Technologies
+1368,Deep Learning in Robotics
+1369,Contact dynamics and legged locomotion
+1370,Impact of stiffness on robotics training
+1371,Simulated testing environments for robots
+1372,Methods for obtaining an accurate model in Robotics
+1373,Deep Neural Networks (DNN) optimization challenges
+1374,Mechanical stiffness and numerical stiffness in robotic movement
+1375,Issues in system identification and differentiable physics
+1376,Robotic performance in unstructured environments
+1377,Impact of noisy sensor measurements on learning models
+1378,Optimization Problems
+1379,Q-MAXSAT
+1380,MAXSAT (Maximum Satisfiability)
+1381,Iterative Algorithms
+1382,Program Analysis
+1383,Information Retrieval
+1384,Mathematical Optimization
+1385,Constrained Optimization
+1386,Performance Evaluation of MAXSAT Solvers
+1387,Pilot (developed tool)
+1388,Memory Consumption in MAXSAT Solvers
+1389,Runtime in MAXSAT Solvers
+1390,Problem-solving in Real-world Scenarios
+1391,Game Theory
+1392,Zero Sum Games
+1393,Minimax Theorem
+1394,Mathematical Modeling
+1395,Computational Optimization
+1396,Decision-making Strategies
+1397,Conflict and Cooperation in Economic Behavior
+1398,Strategic Interactions
+1399,Molecular and Cellular Biology
+1400,Poly(C)-Binding Protein Pcbp
+1401,Definitive Erythropoiesis
+1402,Functional Splicing of the Runx Transcript
+1403,Scientific Research Publishing
+1404,Online Article Accessibility
+1405,Article Citation Metrics
+1406,Crossmark Data
+1407,Journal Submission Process
+1408,Controller Design for Complementarity Systems
+1409,Robotic Tasks and Their Hybrid Nature
+1410,Optimization Algorithms for Stable Control Policies
+1411,Interaction Between Robots and Their Environment
+1412,Use of Tactile Sensors in Robotic Control
+1413,Challenges of Control in Multi-contact Robotic Motion
+1414,Model Predictive Control
+1415,Computational Synthesis of Non-switching Feedback Policies
+1416,Offline Synthesis of a Stabilizing Feedback Policy
+1417,Advanced Tactile Sensing for Robotic Control
+1418,Optimization-based Approach for Designing Control Policies
+1419,Complementarity Structure of Contact in Robotics
+1420,Bilinear Matrix Inequality in Control Policy Synthesis
+1421,Contact-Aware Control and Hybrid Model Predictive Control in Robotics
+1422,Role of National Science Foundation in Robotics Research
+1423,Estimation of Region of Attraction (ROA) for Nonlinear Autonomous Systems
+1424,Usage of Neural Networks in ROA Estimation
+1425,Nonlinear Dynamical Systems Stability Analysis
+1426,Lyapunov Functions in Stability Analysis
+1427,Data-Driven and Machine-Learning Based Methods for Stability Analysis
+1428,Applications of Mixed-Integer Quadratic Programming in Generating Counterexamples
+1429,Neural Network Models and System Identification
+1430,Performance Guarantee and Probabilistic Nature of Learning-Based Methods
+1431,Control Theory and Differential/ Difference Equations
+1432,Safety Certificate Construction through ROA Estimation
+1433,"- Deep reinforcement learning - Safety of learned policies - Verifiable reinforcement learning - Decision tree policies - Model compression - VIPER algorithm - Imitation learning - Deep neural network (DNN) policies - Policy extraction - Robustness, stability, and safety in learning systems - Supervised learning - Real-world applicability of reinforcement learning - Atari Pong variant and cart-pole game as test cases - Challenges in learning decision trees"
+1434,Computer Assisted Surgery
+1435,Surgical Video Annotation
+1436,Challenges in Medical Technology Development
+1437,Automated Tool for Surgery
+1438,Medical Data Analysis
+1439,Contribution of AI in Healthcare
+1440,Machine Learning in Medicine
+1441,Digital Transformation in Surgery
+1442,Online Publication in Medical Research
+1443,Technological Advancements in Healthcare
+1444,Real-Time Calculus (RTC)
+1445,Priority-based resource arbitration
+1446,System modelling and performance analysis
+1447,GPC and AND components
+1448,Synchronization operations in RTC
+1449,Fixing issues in RTC theory
+1450,Enhancing analysis precision
+1451,Generalization of AND connector
+1452,Performance and efficiency improvement in RTC
+1453,Experimentation and evaluation of new methods
+1454,Patent and Intellectual Property
+1455,Microprocessor Technology
+1456,Digital Programmable Gate Arrays
+1457,Reconfigurable Computing Systems
+1458,Chip Design and Architecture
+1459,Memory Device Technology
+1460,Data Processing and Handling
+1461,On-chip Bandwidth Utilization
+1462,Network Interface Technology
+1463,Application-specific Configurations
+1464,Fault Detection in Distributed Computing
+1465,Generic Fault Detection Services
+1466,Detecting different types of Faults
+1467,Formal Framework for Fault Classes
+1468,Problem-solving for Specific Fault Classes
+1469,Message Complexity and Fault Detection
+1470,Fault Masking and Fault Detection Approaches
+1471,Identification and Isolation of Faulty Components
+1472,Handling Faults in Reliable Distributed Systems
+1473,Concept of Byzantine Faults in Practical Systems
+1474,Human mesh recovery using radio signals
+1475,D body meshes estimation: challenges and solutions
+1476,RF-Avatar: neural network model for mesh recovery
+1477,RF sensing for human detection and pose estimation
+1478,Application of radio frequency (RF) signals
+1479,Mesh recovery in single and multi-person scenarios
+1480,"Influence of occlusions, baggy clothes, bad lighting conditions on mesh recovery"
+1481,Privacy considerations in RF sensing
+1482,Use of a multi-headed self-attention mechanism and a temporal discriminator for dynamic human motion prediction
+1483,The application of advanced techniques in computer vision
+1484,Impact of spatial resolution in RF signals on mesh recovery
+1485,Linguistic Styles in Text Communication
+1486,Perception Differences between Humans and BERT
+1487,Role of Specific Words (Stylistic Cues) in Identifying Text Styles
+1488,Analysis of Word Importance in Classifying Styles
+1489,BERT and Shapley Value-based Attribution Scores
+1490,Comparison Between Human and BERT’s Perception on Stylistic Text Classification
+1491,Understanding Deep Learning Models such as BERT
+1492,"Text Styles like Politeness, Sentiment and Emotion"
+1493,Investigated Text Stylistic Elements through Human Perception and Machine Importance
+1494,Dataset Creation (HUMMINGBIRD) for studying Linguistic Styles
+1495,Analysis of BERT's Learning Mechanisms and its Alignment with Human Perception
+1496,MaxSAT solvers and their advancements
+1497,Challenges in scalability for large MaxSAT instances
+1498,The concept of Lazy Grounding in problem-solving
+1499,Introduction and use of VOLT in solving large MaxSAT instances
+1500,Different approaches using VOLT in information retrieval and program analysis
+1501,Evaluation and comparison of VOLT's performance with other MaxSAT solvers
+1502,Discussing the relationship between various lazy grounding techniques
+1503,Counterexample-guided approach in problem-solving
+1504,The weighted partial maximum satisfiability problem
+1505,Machine Learning and Fairness
+1506,One-sided Feedback in Online Learning
+1507,Achieving Maximum Accuracy with Individually Fair Policies
+1508,Auditing Schemes in Machine Learning
+1509,The Problem of Hidden Outcomes and Human Bias
+1510,Contextual Combinatorial Semi-Bandit Problem
+1511,Multi-criteria No Regret Guarantees
+1512,Feedback Loops in Sequential Decisions
+1513,The Notion of Individual Fairness
+1514,Usage of Human Auditors in maintaining Fairness
+1515,Open-source software
+1516,Social health in development communities
+1517,Community interactions in software development
+1518,Quality of documentation in open source packages
+1519,Search-based software engineering
+1520,Developer trust in software
+1521,Online communication in software development
+1522,"Assessment of open-source packages based on the community, documentation, and developers"
+1523,Strategies for determining community embrace and welcome
+1524,Investigation of social health in software packages
+1525,Web-based information as a resource for social health evaluation
+1526,Challenges encountered while deciphering the social health of software packages
+1527,Use of web log analysis and internet communication tools in software development
+1528,Reduced-order Models (ROM)
+1529,Legged Locomotion
+1530,Model Optimization Algorithm
+1531,Bipedal Robots
+1532,Task and Cost Function Distribution
+1533,Full-Order Models
+1534,Robot Performance Evaluation
+1535,Computation Load in Robotics
+1536,Real Time Planning and Control
+1537,Model Extensions in Legged Robots
+1538,Model Predictive Control
+1539,Linear Inverted Pendulum (LIP) Model
+1540,Spring Loaded Inverted Pendulum (SLIP) Model
+1541,Humanoid Robotics
+1542,Federated Learning
+1543,Neural Compression
+1544,Heterogeneous Data
+1545,Nonlinear Transform Coding (NTC)
+1546,Personalized Entropy Models
+1547,Global Latent Space
+1548,Source Distributions
+1549,Lossy Compressors
+1550,Neural Networks
+1551,Privacy Constraints in Centralized Data Collection
+1552,Statistical Heterogeneity in Data
+1553,Data scattering across Clients
+1554,Distributed Setup in Learning
+1555,Image Compression
+1556,Rate-Distortion Trade-off
+1557,Data compression modeling
+1558,Natural Language Processing
+1559,Paraphrase Database (PPDB)
+1560,Hierarchical Graph Factorization Clustering
+1561,Self-Tuning Spectral Clustering
+1562,Paraphrases clustering by word sense
+1563,Definition of similarity matrix
+1564,English Paraphrase resources
+1565,Polysemous words and sense differentiation
+1566,Cluster performance analysis
+1567,Machine Learning Algorithms
+1568,Hybrid Content Distribution Networks (CDNs)
+1569,Quality of service in CDNs
+1570,Client accounting in CDNs
+1571,Risks of peer-to-peer communication in hybrid CDNs
+1572,Threats of malicious clients in CDNs
+1573,Mitigation measures for faulty clients
+1574,Accounting accuracy in hybrid environments
+1575,RCA methodology for reliable accounting of client interactions
+1576,Application of RCA in commercial CDN
+1577,Simulations and performance analysis
+1578,The use of social media data in detecting loneliness
+1579,Linguistic markers associated with mental health and loneliness
+1580,The correlation between online expressions and predictors of mental health
+1581,The role of natural-language processing in analyzing mental health
+1582,The potential of loneliness detection in aiding public health interventions
+1583,Expression of loneliness in twitter timelines
+1584,The association between loneliness and chronic mental health conditions
+1585,Machine learning in predicting expressions of loneliness
+1586,Estimation of loneliness in the adult population
+1587,Impact of loneliness on physical health and wellbeing
+1588,Incremental View Maintenance (IVM) in Database Theory
+1589,DBSP Language for Describing Computations Over Data Streams
+1590,Mathematical Definition of IVM
+1591,IVM for Arbitrary DBSP Programs
+1592,Modelling Rich Database Query Languages Using DBSP
+1593,Implementation of SQL and Datalog in DBSP
+1594,Efficient Incremental View Maintenance Algorithms
+1595,Streaming Model of Computation
+1596,Expressiveness of DBSP
+1597,Simplicity and Modularity of DBSP
+1598,Mathematical Precision of DBSP
+1599,Streaming Operator in DBSP and Time-based Data Analysis
+1600,DBSP Implementation of the Complete SQL Language
+1601,Foundations of Computational Mathematics
+1602,Stationary Points at Infinity
+1603,Analytic Combinatorics
+1604,Complex algebraic varieties
+1605,Combinatorial applications
+1606,Description and computation via Morse theory
+1607,Topological invariants
+1608,Stratiﬁed Morse theory
+1609,Computer algebra
+1610,Critical point
+1611,Intersection cycle
+1612,"Mathematics Subject Classiﬁcation A·Q·Secondary F, Q"
+1613,Early Parental Care and Brain Maturation
+1614,Hippocampal Maturation: Evidence from Brain Morphology
+1615,Impact of Childhood Experience on Brain Development
+1616,Role of Parental Nurturance and Environmental Stimulation on Brain Development
+1617,Neuroimaging evidence of Childhood Experience
+1618,Sensitive Developmental Period for Brain Maturation
+1619,Correlation between Hippocampal Volume and Childhood Experience
+1620,Childhood experience and differences in Brain Morphology
+1621,Virtual Surgery Simulation
+1622,Kriging Interpolation Method
+1623,Membrane Analogy
+1624,Twist Deformation
+1625,Soft Tissue Modelling in Surgery
+1626,Haptic Interaction Devices
+1627,Surgery Training and Skill Improvement
+1628,Real-time Performance and Accuracy in Surgical Simulations
+1629,Physical Models in Virtual Surgery
+1630,Information Extraction Techniques
+1631,Common Sense Knowledge Derivation
+1632,Object Detection Corpora
+1633,Microsoft Common Objects in Context (MS-COCO) dataset
+1634,Spatial Relations
+1635,WordNet
+1636,Submodular k-coverage formulation
+1637,Crowdsourcing Evaluations
+1638,Implicit statement of Visual Common Sense
+1639,Application of Common Sense Knowledge in Query Expansion
+1640,Personal Information of Benjamin Pierce
+1641,University of Pennsylvania
+1642,Department of Computer & Information Science
+1643,Contact Details
+1644,Office Location and Hours
+1645,Email and Website Links
+1646,Learnability of Bipartite Ranking Functions
+1647,Machine Learning Theory
+1648,Ranking Problem in Machine Learning
+1649,Binary Classification Functions
+1650,Boolean domains
+1651,Probably Approximately Correct (PAC) Learning Model
+1652,Algorithms for Solving Learning Problems
+1653,Theoretical understanding of the learning problem
+1654,Ranking Functions
+1655,Relative ranking of instances
+1656,Computational complexity of learning
+1657,Importance of scores in ranking
+1658,Classification and Regression in Machine Learning
+1659,"Differences between classification, regression, and ranking problems"
+1660,Open Access Articles
+1661,Balance Control
+1662,Center of Mass Height Variation
+1663,Limitations of Unilateral Contact
+1664,IEEE Publishing
+1665,Citation and Persistent URL
+1666,Terms of Use - Creative Commons Attribution-Noncommercial-Share Alike
+1667,Post-peer review Manuscripts
+1668,MIT Faculty Research
+1669,Robotics and Automation
+1670,BLDC (Brushless DC) Actuator Design
+1671,Task-Based Control
+1672,Steady-State Torque and Power-Production
+1673,Motor Design Optimizations
+1674,"Force Control, Motion Control"
+1675,Robotic Actuators
+1676,"Single-input/single-output ""Torque Amplifier"" (TA) Abstraction"
+1677,Voltage-Constrained Scenario
+1678,Motor and Power Electronics Literature
+1679,"Radial-Flux, Three-Phase, Brushless Permanent-Magnet Synchronous Motor"
+1680,Field-Oriented Control (FOC)
+1681,Motor Selection for Robotics Applications
+1682,Design of Robotic Manipulators
+1683,"Power-Dense Applications, such as Legged Robotics"
+1684,Dependence Balance in Multiple Access Channels
+1685,Transmission of Correlated Sources over a Memoryless Multiple-Access Channel
+1686,Distortions in Gaussian and Binary Adder MACs
+1687,Conditions Required for Lossy Transmission without and With Feedback
+1688,Maximization of Correlation in Symmetric Gaussian MACs and Gaussian sources
+1689,Mutual Information between the Two Sources and the Input Distribution of the MAC
+1690,Dependence-Balance Bound in MAC with Feedback
+1691,Distortion Functions in Source Reconstruction
+1692,Transmissibility of Correlated Sources over a MAC with feedback
+1693,Numerical Simulations on Binary Adder Channels and Doubly Symmetric Binary Sources
+1694,Compressed Sensing
+1695,Combinatorial Group Testing
+1696,Sparse Vector Recovery
+1697,Linear Equations
+1698,Model of Arithmetic
+1699,Adversarial Processes in Signal recovery
+1700,Application of Group Testing and Compressed Sensing
+1701,Randomness Models
+1702,Cryptographic Assumptions for Error Correction
+1703,Efficient Schemes against Bounded Channels
+1704,Measurement Protocols
+1705,Adversarial Power and Strength
+1706,Non-adaptive Schemes
+1707,Data Stream Forensics
+1708,Open Access Archives
+1709,Scientific Research Document Dissemination
+1710,Educational and Research Institutions
+1711,Public and Private Research Laboratories
+1712,Creative Commons Attribution
+1713,Asynchronous Pipeline
+1714,Processing of Huge Corpora
+1715,Medium to Low Resource Infrastructures
+1716,Challenges in the Management of Large Corpora
+1717,Workshop Participation and Presentation
+1718,Signal Temporal Logic (STL) Formulas
+1719,Discrete-Time Stochastic Processes
+1720,STL Robustness Risk
+1721,Risk Measures (like Conditional Value-at-Risk)
+1722,Approximation and Comparison of STL Robustness Risk
+1723,Data-Driven Approaches in Robustness Risk Estimation
+1724,Autonomous Vehicles and Imperfect Sensing
+1725,Safety-Critical Systems and Associated Risks
+1726,Quantifying Risk in System Specifications
+1727,Temporal and Spatial System Properties
+1728,Dynamics of Spreading Processes in Networks
+1729,Susceptible-Infected-Susceptible (SIS) Model
+1730,Phase-type distributions for Transmission and Recovery Times
+1731,Impact of Non-Exponential Transmission and Recovery Times
+1732,Steady-State Fraction of Infected Nodes
+1733,Stability of Infection-Free Equilibrium
+1734,Analysis of Non-Markovian Spreading Processes
+1735,Generalized Networked SIS (GeNeSIS) Model
+1736,Epidemic Thresholds and Network Eigenvalues
+1737,Optimal Strategies for Containment of Spreading Processes
+1738,Deep Learning Models
+1739,Robust and Reliable Machine Learning
+1740,Debugging Machine Learning Models
+1741,Machine Learning Optimization
+1742,Machine Learning Robustness
+1743,Scalability and Practicality in Machine Learning
+1744,Machine Learning Applications in Cosmology
+1745,Machine Learning Applications in Surgery
+1746,Graph Theory
+1747,Hypergraphs
+1748,Graph Algorithms
+1749,Cut-preserving Sparsifiers
+1750,Computational Complexity
+1751,Graph Sparsification Techniques
+1752,Application of Sparsifiers in Graph Analysis
+1753,Weighted Graphs and Subgraphs
+1754,Polynomial-time Algorithms
+1755,Study of Cuts in Graphs
+1756,Quantum Computing (QC)
+1757,Noisy Intermediate-Scale Quantum (NISQ) computing system
+1758,Simulation Framework for Architecting NISQ
+1759,Quantum processor modeling
+1760,Classical control system modeling
+1761,Error modeling in QC simulation
+1762,NISQ system evaluation
+1763,NISQ hardware and access limitations
+1764,Quantum control hardware architecture
+1765,NISQ device design and optimization
+1766,QC cloud services
+1767,Innovation and optimization in NISQ compiler
+1768,Importance of execution fidelity and timing in NISQ system evaluation
+1769,Classical digital computing vs Quantum Computing
+1770,Internet Architecture Innovations
+1771,Communication Law
+1772,Communication Technology and New Media
+1773,Computer and Systems Architecture
+1774,Computer Law
+1775,Digital Communications and Networking
+1776,E-Commerce
+1777,Law and Economics
+1778,Science and Technology Law
+1779,Science and Technology Policy
+1780,Science and Technology Studies
+1781,Legal Scholarship Repositories
+1782,University of Pennsylvania Carey Law School
+1783,Faculty Works Repository
+1784,Open Access Scholarly Works
+1785,Autism Spectrum Disorder (ASD)
+1786,Machine Learning in Autism Detection
+1787,Acoustic and Text Features in ASD Detection
+1788,Speech and Language Features in ASD
+1789,Role of Conversation Partners in ASD Detection
+1790,Gradient Boosting Model
+1791,Principal Component Analysis in Dimensionality Reduction
+1792,Automatic ASD Detection Tools
+1793,ASD Prescreening and Triage in Real-World Settings
+1794,Clinical Speech in ASD Diagnosis
+1795,Atypical Speech Patterns in ASD
+1796,Robotics and Automation
+1797,Intelligent Control Architecture for Robots
+1798,Hybrid Position/Force Control Tasks
+1799,Human-like Capabilities in Robots
+1800,Controlling Redundant Dynamic Manipulators
+1801,Role of Motor Synergies in Control
+1802,Rapid Learning Capabilities for Task Refinement
+1803,Robot Operation in Unstructured Environments
+1804,Hierarchical and Modular Control Systems
+1805,Endpoint Positioning Synergy Development
+1806,Motor Skills Acquisition and Practice in Robots
+1807,Autonomous Robotics in Hazardous Environments
+1808,Visual Attribute Learning
+1809,Semantic Visual Attributes
+1810,Multi-task Learning Approach
+1811,Discriminative Attribute Models
+1812,Structured Sparsity
+1813,Feature Competition and Sharing
+1814,Image Recognition and Representation
+1815,Semantic Relatedness
+1816,Object Categorization
+1817,Attribute Correlation and Decorrelation
+1818,Generalizability in Machine Learning
+1819,Correlation in Training Data
+1820,Engineering Formal Metatheory
+1821,Machine-checked proofs of properties of programming languages
+1822,Construction and difﬁculty of carrying out large formal developments
+1823,Representation and manipulation of terms with variable binding
+1824,Locally nameless representation of terms and coﬁnite quantiﬁcation
+1825,Reasoning about equivariance
+1826,In-depth study and applications of Coq proof assistant
+1827,Type soundness for System F<: and core ML
+1828,"Syntax, Design, Documentation, Languages, Theory, Verification"
+1829,"Binding, Coq, locally nameless approach"
+1830,Challenge of formalizing programming language metatheory
+1831,Performance assessment criteria of formalization techniques
+1832,Variational Quantum Algorithms
+1833,Neural Networks in Classical Machine Learning
+1834,Ansatz Architecture Design
+1835,Quantum Software Frameworks
+1836,RX and RZ Gates in Quantum Computing
+1837,Two-Qubit Gate Entanglement Layers
+1838,Expressive Power of Quantum Algorithms
+1839,Optimization of Ansatz Architectures
+1840,Comparison and Performance Evaluation of Different Ansatz Architectures
+1841,Probabilistic techniques for accurate localization
+1842,Built-in signal intensity meter of
+1843,cards
+1844,Mapping observed signal intensities
+1845,User localization in large-scale networks
+1846,High frame rate of localization results
+1847,"System robustness against untrained, time-varying phenomena"
+1848,Location-aware applications without special-purpose hardware
+1849,Network Architecture and Design - Wireless communication
+1850,Probabilistic algorithms and Markov processes
+1851,Robotics - Sensors
+1852,Statistical models in Pattern Recognition
+1853,"Algorithms, Design, Experimentation, Measurement in mobile systems"
+1854,Practical scheme for mobile device location awareness
+1855,Indoor location-sensing systems
+1856,Bayesian inference in wireless network protocol
+1857,Large-scale deployment of wireless location-sensing system
+1858,Biological Assays
+1859,Static Array of Droplets
+1860,On-demand Recovery
+1861,Biomicrofluidics
+1862,Research Methodologies in Biotechnology
+1863,Technological Advancements in Biological Research
+1864,Development of Biological Assay Techniques
+1865,Research Analysis Findings and Citations
+1866,Group Testing in Experimental Design
+1867,Computational Biology
+1868,Sequences for Mapping and Screening Libraries
+1869,New Issues in Group Testing for Biological Applications
+1870,Cost-Effective Experiment Design
+1871,Screening Libraries of Clones with Hybridization Probes
+1872,Constructing Physical Maps and Finding Genes
+1873,Sequencing by Hybridization
+1874,Screening Libraries of Reagents
+1875,"Medical Testing of Blood, Tissue, or Other Samples"
+1876,Biological Screening Literature and Processes
+1877,Computer Science and Information Science Applications in Biology
+1878,Subcellular omics
+1879,Single-cell biology
+1880,Organelles and subcellular structures
+1881,Regulation of cellular function
+1882,Cellular heterogeneity
+1883,Organelle biology in disease
+1884,Omics complexity
+1885,Subcellular multiomic interactions
+1886,Emerging technologies in organelle studies
+1887,Increased resolution and throughput in organelle-scale assays
+1888,Advances in isolation and purification of organelles
+1889,Microfluidic devices in organelle studies
+1890,E-unification Procedure
+1891,Paramodulation
+1892,Maxtelli-Montanari method
+1893,Herbrand's Thesis
+1894,Transformations in Standard Unification
+1895,Rewrite Rules
+1896,Higher-Order Unification
+1897,Complete Sets of Unifiers
+1898,Many-Sorted Languages
+1899,Tree Domains
+1900,Tree Replacements
+1901,Substitutions
+1902,Rewrite Steps
+1903,Idempotent Substitutions
+1904,Equation Systems
+1905,Rewriting At or Below Variable Occurrences
+1906,Matching Substitutions
+1907,National Science Foundation Grant Support
+1908,Teleoperation Data Collection
+1909,Visual Backtracking Teleoperation (VBT)
+1910,Image-Based Reinforcement Learning
+1911,Value Functions and Policies for Robotic Tasks
+1912,Sparse Reward Robotic Tasks
+1913,T-shirt Grasping Task
+1914,Behavioral Cloning Agent
+1915,Task Recovery Behaviors
+1916,Offline Reinforcement Learning (OffRL)
+1917,Accurate Value Functions Learning
+1918,State Action Space Coverage
+1919,Deformable Manipulation Task
+1920,Impact of Visual Similarity on Learning
+1921,Overfitting Issues in Learning
+1922,Improvements in Q Functions
+1923,Deep Neural Networks Verification
+1924,Optimization Problems of Neural Networks
+1925,Convex Relaxations of Neural Networks
+1926,Operator Splitting Method in Neural Networks
+1927,Scalability and Parallelization in Neural Network Verification
+1928,Bounding the Worst-case Performance of Neural Networks
+1929,Use of Neural Networks in Image Classification and Reinforcement Learning
+1930,Reachability Analysis of Neural Network Dynamical Systems
+1931,Robustness of Neural Networks against Adversarial Attacks
+1932,Safety-critical Applications of Neural Networks (e
+1933,g
+1934,", Autonomous Vehicles, Medical Machine Learning)"
+1935,Performance Measurement of Neural Networks
+1936,Input Perturbations for Neural Networks
+1937,Tools for Verifying Desirable Properties of Neural Networks
+1938,Behavioral Experiments
+1939,Network Formation Game
+1940,Competitive Coordination Task
+1941,Monetary Compensation
+1942,Social Networks
+1943,Game Theory
+1944,Human Factors in Economics and Experimentation
+1945,Structural Properties of Large-scale Networks
+1946,Stochastic Network Formation Models
+1947,Individual and Collective Behavior Analysis
+1948,Computing the best-fitting ReLU with respect to square-loss on training sets
+1949,Gaussian distribution and spherical Gaussian distributions in machine learning
+1950,The problem of learning sparse parities with noise
+1951,The computational complexity of learning simple neural networks
+1952,The use of ReLU (Rectified Linear Unit) activation in modern deep networks
+1953,The efficiency of approximation algorithms for finding best-fitting ReLU
+1954,Relation between gradient descent and best-fitting ReLU regarding Gaussian marginals
+1955,Noisy halfspace learning with respect to / loss
+1956,Privacy concerns in scientific workflows
+1957,"Module, data and provenance privacy"
+1958,Privacy-preserving data mining
+1959,Formal model for privacy in workflows
+1960,Optimization problem for privacy-preserving view
+1961,Provenance information and its effect on privacy
+1962,Trade-offs between information revelation and privacy guarantees
+1963,Implications of privacy for proprietary modules and private data
+1964,Confidentiality of health or medical information in scientific research
+1965,Privacy issues with revealing intermediate research data
+1966,Use of noise addition for answering queries in scientific workflows
+1967,Strategies for hiding provenance information
+1968,Artificial Intelligence Systems
+1969,Knowledge Representation
+1970,Logical Formulas in AI
+1971,Model-based Representation
+1972,Horn Theories
+1973,Deduction and Abduction in AI
+1974,Polynomial Time Complexity
+1975,Case-based Reasoning
+1976,NP-complete Problems
+1977,Algorithms for Efficient Representations
+1978,Incomplete Information Handling
+1979,Problems in Reasoning with Logical Formulas
+1980,Approximation of Empirical Data
+1981,Characteristic Models in AI
+1982,Artificial Intelligence Research
+1983,Adaptive Autonomous Bidding Agents
+1984,E-Marketplaces
+1985,Trading Agent Competition
+1986,Principle Bidding Strategy
+1987,Elements of Adaptivity
+1988,Performance benchmarking
+1989,Strategy development
+1990,Competitions and Results Analysis
+1991,Autonomous systems
+1992,Bipedal robotics
+1993,"Jerboa, a tailed bipedal robot"
+1994,Inertial appendages for orientation adjustment
+1995,Aerial stabilization
+1996,Dynamic and quasi-static balance in robotics
+1997,Controller constructions for robotic platforms
+1998,Robotic maneuverability
+1999,The role of tails in robotic reorientation
+2000,Hardware protection in robotics
+2001,Locomotion tasks in robotics
+2002,Spherical tail joint applications in robotics
+2003,Applications of controllers in D robotic operations
+2004,Lipschitz constants of neural networks
+2005,Robustness and generalization of neural networks
+2006,Computational challenges in calculating Lipschitz constants
+2007,Estimating upper bounds on the Lipschitz constant
+2008,Semidefinite programming for Lipschitz constant estimation: LipSDP
+2009,Issues of scalability with LipSDP
+2010,Introduction of Chordal-LipSDP to address scalability issues
+2011,Chordal sparsity in LipSDP
+2012,Trade-off between efficiency and accuracy using a sparsity parameter
+2013,Application and performance of Chordal-LipSDP
+2014,Ways to measure robustness in safety-critical applications
+2015,Theoretical properties of Chordal-LipSDP
+2016,The connection between the Lipschitz constant and neural network's ability to generalize
+2017,Utilizing Lipschitz constants for stability or safety guarantees in control systems
+2018,Training neural networks with a desired Lipschitz constant
+2019,Open-source implementation of Chordal-LipSDP
+2020,Alzheimer’s Disease and other Neurodegenerative Diseases
+2021,Single Nucleotide Polymorphisms (SNPs)
+2022,Genetic Heritability of Alzheimer’s Disease
+2023,Structural Variations (SVs)
+2024,Genome-Wide Association Studies (GWAS)
+2025,Techniques and Challenges in SV Detection
+2026,"Role of Insertions, Inversions, Short Tandem Repeats, and Transposable Elements"
+2027,Copy Number Variations (CNVs)
+2028,Role of SVs in the Missing Heritability of Alzheimer’s Disease
+2029,"Role of Mutations in APP, PSEN, PSEN in Alzheimer's Disease"
+2030,Identification of Risk Loci Associated with Alzheimer's Disease
+2031,Graph traversal and its importance in graph analytics
+2032,Issues with analyzing scale-free graphs due to irregularities
+2033,Redundant graph computations caused by high-degree vertices
+2034,Optimization techniques for graph algorithm and hardware architecture
+2035,Degree-aware adjacency list reordering and degree-aware vertex index sorting
+2036,The usage of FPGA-HMC platform for graph processing
+2037,Degree-aware data placement and degree-aware adjacency list compression techniques
+2038,Enhancing performance of graph traversal methods through hardware optimization
+2039,"Comparisons and evaluation of different method of graph traversal such as bottom-up method, top-down approach, and hybrid method"
+2040,The use of FPGA to alleviate memory bottlenecks in high-performance graph processing systems
+2041,Optimization Algorithms
+2042,Dynamical Systems and Control
+2043,Gradient-based Optimization Algorithm
+2044,Ordinary Differential Equations (ODEs)
+2045,Suboptimality Bound for Continuous-time Algorithms
+2046,ODE Solver's Accuracy Bound
+2047,Discretization of Continuous-time Algorithms
+2048,Convergence Rates in Continuous Time
+2049,Nesterov's Accelerated Gradient
+2050,Rescaled Gradient Flow
+2051,IEEE Conference on Decision and Control (CDC)
+2052,Intellectual Property and Usage Rights
+2053,Biomedical Engineering
+2054,Data Science
+2055,Applied Mathematics and Statistics
+2056,Computer Science
+2057,Mechanical Engineering
+2058,Electrical and Computer Engineering
+2059,AI Research and Development
+2060,Autonomous Systems Safety
+2061,Academic Awards and Achievements
+2062,Research Paper Publications
+2063,Collaborations with Corporate Entities (Amazon)
+2064,Teaching
+2065,"Conferences (ICML, CVPR)"
+2066,Sequential Regression Procedures
+2067,Spurious Variable
+2068,"Forward Stepwise Regression, Lasso and Least Angle Regression"
+2069,Regression Coefficients
+2070,Linear Model
+2071,Model Selection
+2072,Familywise Error Rate
+2073,Double-Ranking Diagram Visualization Tool
+2074,Statistical Independency in Gaussian Random Designs
+2075,Equivalence Between Lasso and Least Angle Regression Beyond Orthogonal Designs
+2076,Capacitated Survivable Network Design Problem (Cap-SNDP)
+2077,Algorithms for Network Design
+2078,Mathematical Modeling in Network Design (LP Relaxation and Knapsack-Cover Inequalities)
+2079,Strategies for Approximating Cap-SNDP
+2080,Directed Graphs in Network Designs
+2081,Single Pair Connectivity in Network Design
+2082,Variants of Cap-SNDP (Multiple copies of an edge)
+2083,Approximation Difficulties in Network Design Problems
+2084,Validity and Limitations of Current Network Design Models and Algorithms
+2085,Network Privacy
+2086,Packet Scheduling
+2087,Client Opt-in Privacy System
+2088,Indifferent-first scheduling (IFS)
+2089,Timing Side Channel Attacks
+2090,Impact of Network Traffic on Client Privacy
+2091,Policies for Network Traffic Management
+2092,Time Division Multiple Access (TDMA)
+2093,Concerns over Network Isolation
+2094,Limitations of Programmable Switches
+2095,Push-in-first-out (PIFO) Queuing Architecture
+2096,Existing Network Scheduling Disciplines
+2097,Gender Bias in Coreference Resolution
+2098,Evaluation and Debiasing Methods
+2099,WinoBias Benchmark for Gender Bias
+2100,"Use of Rule-Based, Feature-Rich, and Neural Coreference System"
+2101,Impact of Stereotypes in Coreference Resolution Systems
+2102,Data-Augmentation Approach
+2103,Word-Embedding Debiasing Techniques
+2104,Performance of Coreference Systems on Demographic Groups
+2105,Use of Occupational Vocabulary in Coreference Systems
+2106,Disambiguation of Gender Pronouns
+2107,Heterogeneous Datacenters Management
+2108,Token Mechanism in Processor Allocation
+2109,Performance and Fairness Balance
+2110,Algorithmic Mechanism Design
+2111,Modeling Methodologies
+2112,Power Management in Software Engineering
+2113,Pricing and Resource Allocation Topics
+2114,Optimization and Equilibrium in Resource Management
+2115,Processor Heterogeneity
+2116,Fairness and Sharing incentives in System Allocation
+2117,USENIX Security Symposium Proceedings
+2118,Online/Offline PIR (Private Information Retrieval)
+2119,"Researcher contributions and affiliations (University of Pennsylvania, Algorand Foundation, Microsoft Research)"
+2120,Open access to scholarly articles
+2121,Yiping Ma and Ke Zhong's joint study
+2122,Incremental technological research
+2123,Cybersecurity and data privacy
+2124,Academic conferences and presentations
+2125,Transport Protocol Flows
+2126,Internet Hosts and Routers
+2127,"TCP Reno, TCP Vegas, TCP Nice"
+2128,Internet Paths and Network Protocols
+2129,Network Measurements and Performance
+2130,Emulation and Evaluation of Transport Protocols
+2131,Round-Trip Path Conditions
+2132,Network Transfers
+2133,"Network Congestion, Delays, Failures"
+2134,Large-Scale Experimental Conditions
+2135,Cyber-physical systems
+2136,Real-time and embedded systems
+2137,Distributed systems
+2138,Internet of Things (IoT)
+2139,Formal Modeling
+2140,Streaming Applications
+2141,Computer Science
+2142,Career progression in academia
+2143,Honors and Awards
+2144,Research achievements
+2145,Graduate Scholarship
+2146,Important presentations and symposiums in the computing field
+2147,Optimal portfolio design
+2148,Finance and risk tolerance assessment
+2149,Portfolio fairness across demographic groups and wealth stratification
+2150,Algorithm development for portfolio design
+2151,Social welfare and fairness objectives in finance
+2152,Zero-sum game theory and its applications in portfolio design
+2153,Wealth related risk tolerances in portfolio management
+2154,Simulation results and generalization guarantees in risk distribution
+2155,Ex-ante and ex-post analysis of portfolio fairness
+2156,Machine learning in portfolio design
+2157,Cloud Radio Access Networks (C-RANs) and their role in modern communication systems
+2158,The problem of data transmission capacity in emerging mobile networks
+2159,The advent and development of the diamond network and relevant coding techniques
+2160,The role of base stations (BSs) in traditional and C-RAN architectures
+2161,Centralized processing in multi-relay setting and its impact on communication bandwidth
+2162,Multi-hop point-to-point communication schemes
+2163,Collaboration and interoperability between different base stations
+2164,"Intensive inter-cell interference in future ultra-dense, multi-tier networks"
+2165,Techniques for deriving lower and upper bounds on communication capacity
+2166,Concepts and applications of Marton’s coding and Ozarow’s technique
+2167,The emerging challenges in downlink C-RAN and potential solutions for them
+2168,Capacity approximation using noisy network coding and distributed decode-forward
+2169,The understanding and use of the Gaussian multiple access diamond channel
+2170,The impact of inter-relay cooperation on information rates in diamond networks
+2171,The role of the information bottleneck method and the Entropy Power Inequality (EPI) in communication networks
+2172,Legged Robotics
+2173,Mode-Reactive Template-Based Control
+2174,Translating Center of Mass While Fixing Body Orientation
+2175,Hierarchical Approach to Maneuvers Planning
+2176,Application of Dynamical Systems for CoM Task Planning
+2177,Control Authority in Context of Contact Modes
+2178,Single- and Multi-legged Leaping and Transitional Maneuvers
+2179,Model-based Model-predictive Controller Comparison
+2180,"High Degree of Freedom, Coupled Hybrid Dynamical System"
+2181,Constraint from Body Design and Environmental Factors
+2182,Three Degree of Freedom Sagittal Plane Dynamics
+2183,Formal Sequential Composition of Appropriate Sub-modules in Planning
+2184,Robust and Repeatable Dynamical Ascents and Descents on a Quadrupedal Robot
+2185,High Gain Posture Stabilizing Feedback
+2186,Proactive Secret Sharing (PSS)
+2187,Constant Communication
+2188,Privacy and Robustness in PSS
+2189,Adversary Control in Epochs
+2190,Expander Graphs in Securing PSS
+2191,The Role of Secure Channels
+2192,Adversarial Corruptions in Multiparty Protocols
+2193,Proactive Security
+2194,Mobile Adversary Setting
+2195,Instantiation of Secure Channels from Weaker Assumption
+2196,Gaussian Processes (GPs)
+2197,Predictive Distributions
+2198,Posterior Covariance Estimation
+2199,Sampling
+2200,The Lanczos Algorithm
+2201,Approximating Predictive Covariance Matrix
+2202,LOVE (LanczOs Variance Estimates)
+2203,Inducing Point Methods
+2204,Uncertainty Estimation and its Role in Decision Making
+2205,Computational Efficiency and Complexity
+2206,Bayesian Optimization Approaches to Action Selection
+2207,Johnson-Lindenstrauss transforms
+2208,Projective clustering problems
+2209,Euclidean optimization problems
+2210,Dimension reduction in optimization problems
+2211,Coreset constructions
+2212,Center-based clustering
+2213,"(k,z)-subspace approximation"
+2214,"(k,z)-flat approximation"
+2215,"(k,z)-line approximation"
+2216,Accuracy parameter in optimization problems
+2217,Effect of the Johnson-Lindenstrauss transform on solutions
+2218,Testbed heterogeneity
+2219,SatelliteLab: a testbed including nodes from a diverse set of internet edge networks
+2220,Two-tier architecture of SatelliteLab (Planets and Satellites)
+2221,Prototyping and Evaluation of SatelliteLab
+2222,Network conditions and testbed performance
+2223,Adopting internet edge networks in testbeds
+2224,Limitations and challenges of incorporating diverse resource constraints
+2225,Prototypes of new systems over internet testbeds
+2226,The role of Internet in connecting edges networks
+2227,Influence of network conditions on coding execution and traffic forwarding
+2228,Scientific Workflow Management Systems
+2229,Data Provenance
+2230,Differencing Provenance
+2231,Complexity in Execution Models
+2232,Forked Executions
+2233,Implicit and Explicit Iterations
+2234,Parallel Executions
+2235,Protein Annotation Workflow Specification
+2236,Control flow and data flow in Scientific Workflows
+2237,Algorithm for Differencing Provenance
+2238,Prototype Development and Experimental Results
+2239,Scalability of the Approach
+2240,Aerial Swarm Robotics
+2241,"Falling prices and improving performance of communication, sensing, and processing hardware"
+2242,Unit costs reduction and barriers to field entry
+2243,"Algorithms that enable communication, task allocation, trajectory planning, and flight coordination among swarm"
+2244,Autonomy in aerial swarms and the role of human operators
+2245,Theoretical tools from control and estimation for application in aerial swarms
+2246,"Dynamic modeling, stability, and controllability for cooperative flight and distributed sensing"
+2247,"Trajectory generation, task allocation, adversarial control, distributed sensing, monitoring, and mapping in aerial swarms"
+2248,The impact and use of physics and subsystem technologies in aerial robotics
+2249,Aerial robotics in a three-dimensional space and their operation challenges
+2250,"Autonomous unmanned aerial vehicles (UAVs) and their impact on science, technology, and society"
+2251,Advances in aerial swarm robotics and existing technological gaps
+2252,"Size, weight, and power (SWaP) tradeoff in aerial robotics"
+2253,Transition challenges from -D to -D operation for aerial robots
+2254,Integration of autonomous aerial swarm systems with other types of robots
+2255,Scalability and robustness in aerial swarm robotics
+2256,Efficient Learning Algorithms
+2257,Deterministic Finite Automata
+2258,Machine Learning Models
+2259,Passive Learning Models
+2260,Average-case Setting Model
+2261,Worst-case Model
+2262,Online Learning
+2263,Prediction Mistakes
+2264,Combinatorial Results for Randomly Labeled Automata
+2265,Semi-random Labeling
+2266,Representing Distributions Over Binary Strings
+2267,Automata Output Behavior
+2268,Random Input Sequences
+2269,Input Sequence Prediction Algorithms

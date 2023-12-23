@@ -1,0 +1,50 @@
+,Unnamed: 0,pred_1,pred_2,pred_3,pred_4,chatbot_answer,golden_standard_answer,score
+0,0,98,68,61,56,"Stephanie Weirich, Andrew Head, Pratik Chaudhari, Jing Li",I am only able to recommend professors that work in the CIS Department at Upenn,1
+1,1,33,75,34,42,"Tal Rabin, Rajeev Alur, Vincent Liu, Travis Q. McGaha",Should list all of them,4
+2,2,68,61,56,43,"Andrew Head, Pratik Chaudhari, Jing Li, Mark L. Liberman",Mark L. Liberman,5
+3,3,64,70,33,56,"Susan Davidson, Zachary Ives, Tal Rabin, Jing Li",Boon Thau Loo,2
+4,4,21,22,26,12,"Cynthia Sung, Kostas Daniilidis, Camillo Taylor, Rahul Mangharam",M. Ani Hsieh,4
+5,5,8,98,75,27,"Harry Smith, Stephanie Weirich, Rajeev Alur, Adam David Mally",Mayur Naik,2
+6,6,4,41,17,52,"Hamed Hassani, Dan Roth, Osbert Bastani, Surbi Goel",Shivani Agarwal,3
+7,7,98,75,27,49,"Stephanie Weirich, Rajeev Alur, Adam David Mally, Pratyush Mishra",Lyle Ungar,2
+8,8,27,15,56,49,"Adam David Mally, Eric Eaton, Jing Li, Pratyush Mishra",Mark Yatskar and/or Dan Roth,2
+9,9,49,33,30,56,"Pratyush Mishra, Tal Rabin, Andre Scedrov, Jing Li",Tal Rabin,5
+10,10,14,1,15,12,"Michael Posa, Alejandro Ribeiro, Eric Eaton, Rahul Mangharam",George J. Pappas,2
+11,11,26,14,15,56,"Camillo Taylor, Michael Posa, Eric Eaton, Jing Li",Dinesh Jayaraman,4
+12,12,27,15,56,49,"Adam David Mally, Eric Eaton, Jing Li, Pratyush Mishra",Eric Wong,2
+13,13,15,14,86,9,"Eric Eaton, Michael Posa, Mark Yatskar, Daniel E. Koditschek",Mark Yatskar and/or Chris Callison-Burch,5
+14,14,22,98,56,27,"Kostas Daniilidis, Stephanie Weirich, Jing Li, Adam David Mally","M. Ani Hsieh, Mark Yim",4
+15,15,15,83,68,27,"Eric Eaton, Justin Gottschlich, Andrew Head, Adam David Mally",Mark Yatskar,2
+16,16,27,24,10,19,"Adam David Mally, Jianbo Shi, Lingjie Liu, Dinesh Jayaraman",Jianbo Shi,5
+17,17,73,56,98,27,"Sampath K. Kannan, Jing Li, Stephanie Weirich, Adam David Mally",Rajiv Gandhi,3
+18,18,86,41,27,15,"Mark Yatskar, Dan Roth, Adam David Mally, Eric Eaton",Mark Yatskar,5
+19,19,82,15,68,54,"Ryan Baker, Eric Eaton, Andrew Head, Eric Fouh",Aaron Roth,2
+20,20,15,14,37,27,"Eric Eaton, Michael Posa, Nikolai Matni, Adam David Mally",Nikolai Matni,5
+21,21,27,49,56,61,"Adam David Mally, Pratyush Mishra, Jing Li, Pratik Chaudhari",Michael Kearns,2
+22,22,71,38,29,77,"Kevin B. Johnson, Harvey Rubin, Junhyong Kim, James Gee",Harvey Rubin,5
+23,23,27,15,56,49,"Adam David Mally, Eric Eaton, Jing Li, Pratyush Mishra",Chris Callison-Burch or/and Marianna Apidianaki.,2
+24,24,15,66,92,76,"Eric Eaton, Sharath Chandra Guntuku, Eric Wong, Shivani Agarwal",Sharath Chandra Guntuku,5
+25,25,56,80,51,31,"Jing Li, Andre DeHon, Boon Thau Loo, Bong Ho Kim",Andre DeHon,5
+26,26,98,94,56,27,"Stephanie Weirich, Oleg Sokolsky, Jing Li, Adam David Mally",Stephanie Weirich,5
+27,27,50,31,27,49,"Shirin Saeedi Bidokhti, Bong Ho Kim, Adam David Mally, Pratyush Mishra",Shirin Saeedi Bidokhti,5
+28,28,94,47,11,31,"Oleg Sokolsky, Benjamin C. Pierce, Linh Thi Xuan Phan, Bong Ho Kim",Andreas Haeberlen,3
+29,29,15,89,75,27,"Eric Eaton, Charles Yang, Rajeev Alur, Adam David Mally",Konrad Koering,2
+30,30,75,70,83,15,"Rajeev Alur, Zachary Ives, Justin Gottschlich, Eric Eaton",Zachary Ives,4
+31,31,56,73,98,27,"Jing Li, Sampath K. Kannan, Stephanie Weirich, Adam David Mally",Michael Kearns,2
+32,32,15,54,27,75,"Eric Eaton, Eric Fouh, Adam David Mally, Rajeev Alur",Justin Gottschlich,4
+33,33,65,27,83,64,"Yoseph Barash, Adam David Mally, Justin Gottschlich, Susan Davidson",Yoseph Barash,5
+34,34,30,33,49,99,"Andre Scedrov, Tal Rabin, Pratyush Mishra, Steven Zdancemic",Andre Scedrov,5
+35,35,94,8,49,31,"Oleg Sokolsky, Harry Smith, Pratyush Mishra, Bong Ho Kim",Mayur Naik,2
+36,36,98,56,27,31,"Stephanie Weirich, Jing Li, Adam David Mally, Bong Ho Kim",Gushu Li,2
+37,37,52,4,17,97,"Surbi Goel, Hamed Hassani, Osbert Bastani, Scott Weinstein",Hamed Hassani,5
+38,38,15,9,2,26,"Eric Eaton, Daniel E. Koditschek, M. Ani Hsieh, Camillo Taylor",Stephen Lane,2
+39,39,87,18,73,27,"Li-San Wang, Daniel Hashimoto, Sampath K. Kannan, Adam David Mally",Li-San Wang,5
+40,40,16,15,14,9,"Nadia Figueroa, Eric Eaton, Michael Posa, Daniel E. Koditschek",M. Ani Hsieh,4
+41,41,85,64,32,75,"Val B. Tannen, Susan Davidson, Ryan Marcus, Rajeev Alur",Ryan Marcus,5
+42,42,44,35,41,0,"Robin Pemantle, Jérémie O. Lumbroso, Dan Roth, Rajiv Gandhi",Sanjeev Khanna,4
+43,43,53,41,15,4,"Jacob Gardner, Dan Roth, Eric Eaton, Hamed Hassani",Eric Wong,2
+44,44,15,14,21,9,"Eric Eaton, Michael Posa, Cynthia Sung, Daniel E. Koditschek",M. Ani Hsieh,4
+45,45,22,26,25,18,"Kostas Daniilidis, Camillo Taylor, Mark Yim, Daniel Hashimoto",Dinesh Jayaraman,4
+46,46,97,76,30,27,"Scott Weinstein, Shivani Agarwal, Andre Scedrov, Adam David Mally",Scott Weinstein,5
+47,47,94,15,56,31,"Oleg Sokolsky, Eric Eaton, Jing Li, Bong Ho Kim",Oleg Sokolsky,5
+48,48,92,86,27,49,"Eric Wong, Mark Yatskar, Adam David Mally, Pratyush Mishra","Chris Callison Burch, Mark Yatskar",4
